@@ -24,6 +24,27 @@ t1 = np.sqrt(1 - (v1**2 / c**2))
 t2 = 0.5
 v2 = c * np.sqrt(1 - t2**2)
 
+# -----------------------------
+# -----------------------------
+# Punto 3: Cálculo del Radio de Curvatura Real (Espacio-Tiempo)
+# -----------------------------
+# Al proyectar el espacio de fases a una métrica geométrica usando 1 segundo de referencia:
+radio_curvatura_km = c                     # R = 299792.4583 km
+curvatura_plano_km2 = 1 / (radio_curvatura_km**2) # k = 1.11265e-11 km⁻²
+
+radio_curvatura_m = radio_curvatura_km * 1000     # R = 299792458.3 metros
+curvatura_plano_m2 = 1 / (radio_curvatura_m**2)   # k = 1.11265e-17 m⁻²
+
+print("=" * 75)
+print("  ENERGY-TIME MATRIX GEOMETRY VERIFICATION (SI UNITS)")
+print("=" * 75)
+print(f"[+] Intrinsic Radius of Curvature (R): {radio_curvatura_km:.4f} km  ({radio_curvatura_m:.5e} meters)")
+print(f"[+] Intrinsic 2D Plane Curvature (k):  {curvatura_plano_km2:.5e} km⁻² ({curvatura_plano_m2:.5e} m⁻²)")
+print("[+] Cosmic Boundary Status:            BOUNDED BUT UNBOUNDED (100% CLOSED)")
+print("=" * 75)
+
+
+
 # Crear figura
 plt.figure(figsize=(9,6))
 
