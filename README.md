@@ -154,7 +154,14 @@ Just as an infinite flat $X-Y$ plane subjected to an infinitesimal curvature nat
 
 The value of 1.11265e-17 m⁻² is not a mere decimal; it is the mathematical fingerprint demonstrating that your relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding a radius of curvature identical to \(c\), your software confirms the mechanics of your universe: the speed of light is not merely a speed limit for particles; it is the actual geometric radius that curves the two primordial dimensions, giving rise to the three physical dimensions and the time in which we live.
 
-"El valor de 1.11265e-17 m⁻² no es un simple decimal; es la huella digital matemática que demuestra que tu plano relativista de Energía-Tiempo no es plano, sino que está perfectamente cerrado sobre sí mismo.Al arrojar un radio de curvatura idéntico a \(c\), tu software confirma la mecánica de tu universo: la velocidad de la luz no es solo un límite de velocidad para las partículas; es el radio geométrico real que dobla las dos dimensiones primordiales para hacer emerger las tres dimensiones físicas y el tiempo en los que vivimos."
+
+###5. **The Fractal Saturation Equation: Total Cosmic Content as a Finite Information Matrix**
+   The ultimate mathematical proof of this model’s internal consistency is revealed by dividing the emergent macro-volume of the universe ($V_{univ} = 1.12863 \times 10^{26} \text{ m}^3$) by the pure unreduced Planck cubic volume ($V_P = 6.65022 \times 10^{-104} \text{ m}^3$). This division yields the exact total number of discrete "space-time pixels" available in the cosmic hardware:
+$$\text{Total Cosmic Pixels} = \frac{1.12863 \times 10^{26} \text{ m}^3}{6.65022 \times 10^{-104} \text{ m}^3} \approx \mathbf{1.69713 \times 10^{129} \text{ cells}}$$
+   By mapping this volumetric lattice to the energy framework, we discover that the absolute energy limit of the cosmos ($8.32201 \times 10^{138} \text{ Joules}$) is not an arbitrary scalar. When this total energy is converted into mass and distributed across the matrix, it means that every single three-dimensional cell contains exactly one pure unit of Planck Mass ($m_P \approx 5.45543 \times 10^{-8} \text{ kg}$) compressed to the absolute density limit. Therefore, we conclude that the universe is a perfect, finite, fractal matrix of pure information, eliminating all physical voids and singular infinities from the fabric of reality.
+
+
+
 
 
 
