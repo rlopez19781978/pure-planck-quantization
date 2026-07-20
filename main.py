@@ -31,15 +31,15 @@ def calculate_energy_time_matrix():
     print(f"  - Derived Planck Force (F_p):    {F_p:.5e} Newtons")
     print("-" * 75)
 
-    # III. DUAL ACCELERATION VERIFICATION
+    # III. DUAL ACCELERATION VERIFICATION (CORRECTED METRIC)
     # Method 1: Kinematic Space-Time Derivative
     a_p_method1 = l_p / (t_p**2)
-    # Method 2: Quantum Action Dynamics
-    a_p_method2 = h / (m_p * (t_p**2))
+    # Method 2: Quantum Action Dynamics (F_p / m_p -> h / (m_p * t_p * l_p))
+    a_p_method2 = h / (m_p * t_p * l_p)
 
     print("[+] Pure Planck Acceleration (Dual Method Consistency Check):")
     print(f"  - Method 1 (l_p / t_p²):          {a_p_method1:.5e} m/s²")
-    print(f"  - Method 2 (h / (m_p * t_p²)):    {a_p_method2:.5e} m/s²")
+    print(f"  - Method 2 (h / (m_p * t_p * l_p)): {a_p_method2:.5e} m/s²")
     print(f"  - Mathematical Convergence:      {'SUCCESSFUL' if math.isclose(a_p_method1, a_p_method2) else 'FAILED'}")
     print("-" * 75)
 
@@ -52,7 +52,7 @@ def calculate_energy_time_matrix():
     print(f"  - Critical Density (rho_p):      {rho_p:.5e} kg/m³ <-- [COSMOLOGICAL WALL]")
     print("-" * 75)
 
-    # V. MACROSCOPIC SCALING: THE STRUCTURE OF ONE HOUR (3600 SECONDS)
+    # VI. MACROSCOPIC SCALING: THE STRUCTURE OF ONE HOUR (3600 SECONDS)
     macro_hour_seconds = 3600.0
     total_chronons = macro_hour_seconds / t_p
     
@@ -69,4 +69,3 @@ def calculate_energy_time_matrix():
 
 if __name__ == "__main__":
     calculate_energy_time_matrix()
-
