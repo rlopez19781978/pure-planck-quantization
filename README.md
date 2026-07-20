@@ -25,7 +25,7 @@ The foundational cornerstone of this model is the radical reinterpretation of th
 Mathematically, the dimensions of $h$ break down into the absolute baseline of physical action:
 $$\text{Units of } h = \text{Joules} \times \text{seconds} = \left(\frac{\text{kg}\cdot\text{m}^2}{\text{s}^2}\right) \times \text{s} = \frac{\text{kg}\cdot\text{m}^2}{\text{s}}$$
 
-This reveals that $h$ is not just a scaling coefficient for quantum states; it is the **ultimate quantum pixel of existence itself**. At the $l_P$ and $t_P thresholds$, you cannot possess a fraction of an operational state because reality jumps discontinuously from one unit of action ($h$) to the next. The universe does not contain energy that flows through a background of time; the universe *is* the localized manifestation of Energy-Time blocks.
+This reveals that $h$ is not just a scaling coefficient for quantum states; it is the **ultimate quantum pixel of existence itself**. At the $l_P$ and $t_P$ thresholds, you cannot possess a fraction of an operational state because reality jumps discontinuously from one unit of action ($h$) to the next. The universe does not contain energy that flows through a background of time; the universe *is* the localized manifestation of Energy-Time blocks.
 
 ---
 
@@ -88,9 +88,11 @@ $$V_P = (4.05136 \times 10^{-35} \text{ m})^3 \approx \mathbf{6.65022 \times 10^
 ## V. DERIVATION OF THE PURE PLANCK ACCELERATION & CRITICAL DENSITY
 
 ### 1. Pure Planck Acceleration Constant ($a_P$)
-The acceleration constant defines the ultimate limit of velocity change per unit of time. It is calculated using two independent methodologies:
-* **Geometrical Derivative:** $a_P = \frac{l_P}{t_P^2} \approx \mathbf{2.21841 \times 10^{51} \text{ m/s}^2}$
-* **Quantum Action Dynamics:** $a_P = \frac{h}{m_P \cdot t_P^2} \approx \mathbf{2.21841 \times 10^{51} \text{ m/s}^2}$
+The acceleration constant defines the ultimate limit of velocity change per unit of time. It is calculated using two independent methodologies to demonstrate absolute mathematical consistency within the framework:
+* **Method 1 (Geometrical Derivative):** Calculates the kinematic slope across spatial pixels over temporal frames.
+$$a_P = \frac{l_P}{t_P^2} \approx \mathbf{2.21841 \times 10^{51} \text{ m/s}^2}$$
+* **Method 2 (Quantum Action Dynamics):** Solves via quantum force-mass distribution ($F_P / m_P$), injecting pure action ($h$) over the pixel limits.
+$$a_P = \frac{h}{m_P \cdot t_P \cdot l_P} \approx \mathbf{2.21841 \times 10^{51} \text{ m/s}^2}$$
 
 ### 2. Planck Critical Density Calculation ($\rho_P$)
 Critical Density defines the exact amount of mass/energy compressed within a single cubic pixel ($l_P^3$). Using the derived quantum mass ($m_P = E_P / c^2 \approx 5.45543 \times 10^{-8} \text{ kg}$):
@@ -109,7 +111,6 @@ $$\rho_P = \frac{m_P}{l_P^3} = \frac{c^5}{h \cdot G^2} \approx \mathbf{8.20311 \
 | **Planck Energy** | $E_P$ | $h / t_P$ | $4.90319 \times 10^9 \text{ J}$ |
 | **Planck Mass** | $m_P$ | $E_P / c^2$ | $5.45543 \times 10^{-8} \text{ kg}$ |
 | **Planck Acceleration**| $a_P$ | $l_P / t_P^2$ | $2.21841 \times 10^{51} \text{ m/s}^2$ |
-| **Planck Density** | $\rho_P$ | $m_P / l_P^3$ | $8.20311 \times 10^{95} \text{ kg/m}^3$ |
 
 
 ## VII. CONCLUSIONS: THE ULTIMATE ONTOLOGICAL MANIFESTO OF THE ENERGY-TIME MATRIX
