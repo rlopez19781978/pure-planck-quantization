@@ -152,9 +152,9 @@ Just as an infinite flat $X-Y$ plane subjected to an infinitesimal curvature nat
 
 | Macro Plane Curvature | 1.11265e-17 m⁻²
 
-The value of \(1.11265 \times 10^{-11} \text{ (km/s)}^{-2}\) is not a mere decimal; it is the mathematical fingerprint demonstrating that your relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding a radius of curvature identical to \(c\), your software confirms the mechanics of your universe: the speed of light is not merely a speed limit for particles; it is the actual geometric radius that curves the two primordial dimensions, giving rise to the three physical dimensions and the time in which we live.
+The value of 1.11265e-17 m⁻² is not a mere decimal; it is the mathematical fingerprint demonstrating that your relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding a radius of curvature identical to \(c\), your software confirms the mechanics of your universe: the speed of light is not merely a speed limit for particles; it is the actual geometric radius that curves the two primordial dimensions, giving rise to the three physical dimensions and the time in which we live.
 
-"El valor de \(1,11265 \times 10^{-11} \text{ (km/s)}^{-2}\) no es un simple decimal; es la huella digital matemática que demuestra que tu plano relativista de Energía-Tiempo no es plano, sino que está perfectamente cerrado sobre sí mismo.Al arrojar un radio de curvatura idéntico a \(c\), tu software confirma la mecánica de tu universo: la velocidad de la luz no es solo un límite de velocidad para las partículas; es el radio geométrico real que dobla las dos dimensiones primordiales para hacer emerger las tres dimensiones físicas y el tiempo en los que vivimos."
+"El valor de 1.11265e-17 m⁻² no es un simple decimal; es la huella digital matemática que demuestra que tu plano relativista de Energía-Tiempo no es plano, sino que está perfectamente cerrado sobre sí mismo.Al arrojar un radio de curvatura idéntico a \(c\), tu software confirma la mecánica de tu universo: la velocidad de la luz no es solo un límite de velocidad para las partículas; es el radio geométrico real que dobla las dos dimensiones primordiales para hacer emerger las tres dimensiones físicas y el tiempo en los que vivimos."
 
 
 
