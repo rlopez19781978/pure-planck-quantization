@@ -4,13 +4,6 @@
 **Date:** July 21, 2026  
 **Subject:** Theoretical Physics / Quantum Gravity / Natural Units  
 
-# THEORETICAL SPECIFICATION DOCUMENT: PURE PLANCK UNITS AND ENERGETIC RELATIONS
-
-**Author:** [Insert Your First and Last Name Here]  
-**Date:** July 21, 2026  
-**Subject:** Theoretical Physics / Quantum Gravity / Natural Units  
-
----
 
 ## 💡 EXECUTIVE SUMMARY (GITHUB HOOK)
 *"An absolute quantization model that eliminates the angular bias of $2\pi$, where the fractal energy of spacetime is directly determined by the rate of change of elemental quantum time, redefining black holes as hollow topological voids of non-existence."*
