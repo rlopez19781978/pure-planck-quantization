@@ -1,6 +1,6 @@
 # THEORETICAL SPECIFICATION DOCUMENT: PURE PLANCK UNITS AND ENERGETIC RELATIONS
 
-**Author:** [Insert Your First and Last Name Here]  
+**Author:** Roberto López Rodríguez
 **Date:** July 21, 2026  
 **Subject:** Theoretical Physics / Quantum Gravity / Natural Units  
 
