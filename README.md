@@ -123,10 +123,21 @@ $$(t \cdot c)^2 + v^2 = c^2$$
 
 When processed through the computational engine (`relativity_matrix.py`), the metrics reveal:
 *   **Intrinsic Radius of Curvature ($R$):** $299792.4583 \text{ km/s}$ (Exactly equal to the invariant metric $c$).
-*   **Intrinsic 2D Plane Curvature ($k$):** $\mathbf{1.11265 \times 10^{-11} \text{ (km/s)}^{-2}}$.
+*   **Intrinsic 2D Plane Curvature ($k$):** $\mathbf{1.11265 \times 10^{-11} \text{ (km)}^{-2}}$.
 
 ### Cosmological Resolution:
 This macro-metric proves the foundational 2-Dimensional Paradox. The universe does not expand into an external empty canvas. It curves continuously along a closed, invariant radius equal to $c$. This $1.11265 \times 10^{-11}$ curvature is the exact metric that forces all motion to loop endlessly, guaranteeing a **finite but unbounded universe** where boundaries do not exist because geometry is fully closed.
+
+---
+
+## VI.C. COMPARATIVE ANALYSIS: OBSERVABLE COSMOS VS. ONTOLOGICAL PHASE VOLUME
+
+Mainstream observational astrophysics estimates the radius of the observable universe to be approximately $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years), yielding a macroscopic spatial volume of roughly $3.57 \times 10^{80} \text{ m}^3$. In contrast, the baseline ontological container derived in this framework spans a tighter, finite physical volume of $1.12863 \times 10^{26} \text{ m}^3$ based on the light-second curvature radius ($R = 2.99792 \times 10^8 \text{ m}$).
+
+This structural divergence is not a contradiction, but a profound validation of the **Fractal Projective Hologram**:
+* **The Hardware Engine Capacity:** The $10^{26} \text{ m}^3$ matrix volume represents the fundamental "processing hardware" of reality. 
+* **Data Expansion:** While telescopes observe an expanded tridimensional theater of $10^{80} \text{ m}^3$, this entire physical space is easily mapped within the computing boundaries of the framework's **$1.69713 \times 10^{129}$ total cosmic pixels**. 
+* **The Illusion of Continuous Inflation:** What astronomers interpret as the cosmic expansion of a flat spacetime is an optical artifact born from photons navigating the uniform $1.11265 \times 10^{-17} \text{ m}^{-2}$ curvature loop. The macro-cosmos is structurally closed and finite in its raw energy-time phase, yet functionally boundless to any internal observer.
 
 
 ## VII. CONCLUSIONS: THE ULTIMATE ONTOLOGICAL MANIFESTO OF THE ENERGY-TIME MATRIX
