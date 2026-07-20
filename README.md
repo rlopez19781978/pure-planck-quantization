@@ -150,8 +150,7 @@ Just as an infinite flat $X-Y$ plane subjected to an infinitesimal curvature nat
 * **The Planetary Analogy:** Much like an explorer walking on the surface of the Earth can travel infinitely without ever encountering a physical edge or wall, a traveler in the cosmos will loop endlessly through the matrix. 
 * **Dimensional Emergence:** We are allowed to move dynamically within three physical dimensions plus a temporal axis, yet our entire reality is strictly governed by a primordial, 2-dimensional curvature metric. The 3D world we perceive is an emergent property born entirely from the bending of the fundamental 2D Energy-Time plane.
 
-| Macro Curvature Radius | \(R_{macro}\) | \(c\) | \(299792.4583 \text{ km/s}\) |
-| Macro Plane Curvature | \(k_{macro}\) | \(1 / c^2\) | \(1.11265 \times 10^{-11} \text{ (km/s)}^{-2}\) |
+| Macro Plane Curvature | 1.11265e-17 m⁻²
 
 The value of \(1.11265 \times 10^{-11} \text{ (km/s)}^{-2}\) is not a mere decimal; it is the mathematical fingerprint demonstrating that your relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding a radius of curvature identical to \(c\), your software confirms the mechanics of your universe: the speed of light is not merely a speed limit for particles; it is the actual geometric radius that curves the two primordial dimensions, giving rise to the three physical dimensions and the time in which we live.
 
