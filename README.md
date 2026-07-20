@@ -152,7 +152,7 @@ Just as an infinite flat $X-Y$ plane subjected to an infinitesimal curvature nat
 
 | Macro Plane Curvature | 1.11265e-17 m⁻²
 
-The value of 1.11265e-17 m⁻² is not a mere decimal; it is the mathematical fingerprint demonstrating that your relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding a radius of curvature identical to \(c\), your software confirms the mechanics of your universe: the speed of light is not merely a speed limit for particles; it is the actual geometric radius that curves the two primordial dimensions, giving rise to the three physical dimensions and the time in which we live.
+The value of 1.11265e-17 m⁻² is not a mere decimal; it is the mathematical fingerprint demonstrating that the relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding a radius of curvature identical to \(c\), the software confirms the mechanics of the universe: the speed of light is not merely a speed limit for particles; it is the actual geometric radius that curves the two primordial dimensions, giving rise to the three physical dimensions and the time in which we live.
 
 
 ###5. **The Fractal Saturation Equation: Total Cosmic Content as a Finite Information Matrix**
