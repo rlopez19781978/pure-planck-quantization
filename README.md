@@ -92,4 +92,8 @@ The Planck constant ($h$) is dimensionally measured in Joule-seconds ($\text{J}\
 Consequently, this model redefines the Planck constant ($h$) not merely as a scaling coefficient for quantum mechanics, but as the **primordial quantum pixel of existence itself**. The universe does not exist *within* space, time, or energy; the universe *is* the localized manifestation of Energy-Time.
 
 ---
+---
+## 📚 Deep Dive Documentation
+* Learn more about how this model redefines singularities: [Quantum Black Holes & Maximal Energy Density](quantum-black-holes.md)
+
 This repository serves as an open, immutable, and historical record of the theoretical developments advanced by its author.
