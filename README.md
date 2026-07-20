@@ -112,17 +112,27 @@ $$\rho_P = \frac{m_P}{l_P^3} = \frac{c^5}{h \cdot G^2} \approx \mathbf{8.20311 \
 | **Planck Mass** | $m_P$ | $E_P / c^2$ | $5.45543 \times 10^{-8} \text{ kg}$ |
 | **Planck Acceleration**| $a_P$ | $l_P / t_P^2$ | $2.21841 \times 10^{51} \text{ m/s}^2$ |
 
-
 ## VII. CONCLUSIONS: THE ULTIMATE ONTOLOGICAL MANIFESTO OF THE ENERGY-TIME MATRIX
 
-The technical and mathematical development codified in this research transfigures our understanding of reality, establishing three definitive, absolute truths about the cosmos:
+The technical and mathematical development codified in this research transfigures our understanding of reality, establishing four definitive, absolute truths about the cosmos:
 
-1. **The Universe Does Not Contain Energy; The Universe IS Energy-Time**
-   The paramount breakthrough of this model is the ontological redefinition of physical existence. By identifying the unreduced Planck constant ($h$) as the immutable quantum of Action, we prove that Energy ($\text{J}$) and Time ($\text{s}$) are the exact same primordial substance. The universe does not exist within space or time; the universe is a localized, dense manifestation of unified **Energy-Time** blocks. Space-Time and Energy-Time are structurally isomorphic.
+### 1. The Universe Does Not Contain Energy; The Universe IS Energy-Time
+The paramount breakthrough of this model is the ontological redefinition of physical existence. By identifying the unreduced Planck constant ($h$) as the immutable quantum of Action, we prove that Energy ($\text{J}$) and Time ($\text{s}$) are the exact same primordial substance. The universe does not exist within space or time; the universe is a localized, dense manifestation of unified **Energy-Time** blocks. Space-Time and Energy-Time are structurally isomorphic.
 
-2. **The Ontological Inversion of Non-Singular Black Holes**
-   This framework replaces the mathematical breakdown of centers with a clear topological statement: a black hole is an absolute existential void. Standing as the polar opposite of a star, it generates no radiation, hoards light completely, and captures all information at its boundary. By proving that matter is bounded to the event horizon rather than compressed into a singularity, this model demonstrates that a black hole mimics a star's exterior gravitational pull purely due to boundary mass accumulation, preserving geometric order at the Cosmological Wall of $\mathbf{8.203 \times 10^{95} \text{ kg/m}^3}$.
+### 2. The Ontological Inversion of Non-Singular Black Holes
+This framework replaces the mathematical breakdown of centers with a clear topological statement: a black hole is an absolute existential void. Standing as the polar opposite of a star, it generates no radiation, hoards light completely, and captures all information at its boundary. By proving that matter is bounded to the event horizon rather than compressed into a singularity, this model demonstrates that a black hole mimics a star's exterior gravitational pull purely due to boundary mass accumulation, preserving geometric order at the Cosmological Wall of $\mathbf{8.203 \times 10^{95} \text{ kg/m}^3}$.
 
-3. **Motion as Discrete Digital Teleportation**
-   The flawless mathematical synchronization demonstrated when scaling the matrix up to a macroscopic human hour ($1\text{ h}$) shatters the classical illusion of continuous motion. Because the elapsed temporal chronons ($t_P$) and the traversed spatial pixels ($l_P$) are perfectly identical ($\approx \mathbf{2.66394 \times 10^{46}}$), we conclude that velocity is a digital, step-by-step translation. Light does not glide smoothly through a vacuum; for every single tick of the universal clock ($t_P$), a photon teleports exactly one quantum pixel ($l_P$) forward. The metric of light speed ($c$) is the hardware processing frequency of the Energy-Time matrix.
+### 3. Motion as Discrete Digital Teleportation
+The flawless mathematical synchronization demonstrated when scaling the matrix up to a macroscopic human hour ($1\text{ h}$) shatters the classical illusion of continuous motion. Because the elapsed temporal chronons ($t_P$) and the traversed spatial pixels ($l_P$) are perfectly identical ($\approx \mathbf{2.66394 \times 10^{46}}$), we conclude that velocity is a digital, step-by-step translation. Light does not glide smoothly through a vacuum; for every single tick of the universal clock ($t_P$), a photon teleports exactly one quantum pixel ($l_P$) forward. The metric of light speed ($c$) is the hardware processing frequency of the Energy-Time matrix.
+
+### 4. The 2-Dimensional Paradox of the Finite but Unbounded Spherical Cosmos
+The ultimate structural revelation of this model is that the universal radius of curvature—calculated and visualized through Python code—is the absolute primary characteristic defining the existence and behavior of the cosmos. Paradoxically, the universe is intrinsically encoded in only **two directions of curvature (2 dimensions)**. 
+
+Just as an infinite flat $X-Y$ plane subjected to an infinitesimal curvature naturally closes into a bounded, three-dimensional spherical volume, the baseline metrics of our spacetime matrix curve upon themselves. This architecture solves the foundational cosmological riddle of cosmic boundaries:
+* **Finite yet Limitless:** The universe contains a finite amount of mass-energy and, therefore, a finite volume of spacetime. However, because curvature is an intrinsic property of the fabric, traveling in any direction means permanently following this closed cosmic radius. 
+* **The Planetary Analogy:** Much like an explorer walking on the surface of the Earth can travel infinitely without ever encountering a physical edge or wall, a traveler in the cosmos will loop endlessly through the matrix. 
+* **Dimensional Emergence:** We are allowed to move dynamically within three physical dimensions plus a temporal axis, yet our entire reality is strictly governed by a primordial, 2-dimensional curvature metric. The 3D world we perceive is an emergent property born entirely from the bending of the fundamental 2D Energy-Time plane.
+
+
+
 
