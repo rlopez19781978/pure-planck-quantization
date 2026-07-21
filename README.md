@@ -58,47 +58,42 @@ This model establishes that **Black Holes are existentially the absolute opposit
 * **The Hollow Void Concept:** A black hole produces no light; it hoards light, preventing anything from escaping. Because its interior is an absolute, non-singular void, incoming matter and energy cannot reach a central point. Instead, they accumulate directly **on the boundary (the Event Horizon)**. As falling mass is stopped at this threshold, it expands the critical Planck mass capacity along the horizon shell, making the hole grow. Even though the interior is entirely empty of "universe", the high concentration of mass localized on the boundary warps the external surrounding spacetime. This mimics standard classical gravitational attraction from the outside, allowing the void to act like a star in its macroscopic gravitational behavior while remaining its polar opposite existentially. Light cannot travel through this void; it remains permanently trapped on the matrix boundary of the horizon.
 
 ---
+### III. Core Hardware Engine Volume Bounding ($V_{univ}$)
+In a strict orthogonal cubic lattice, the spatial container of the processing hardware cannot be derived using spherical volumetric equations ($\frac{4}{3}\pi R^3$), which carry continuous angular bias. Instead, the boundary of the core engine defines a **Cubic Information Container** whose linear dimensions ($s$) are dictated by the inverse of the directional linear deviation constant:
 
-## III. MATHEMATICAL DERIVATION OF PURE PLANCK SCALE METRICS
+$$s = \frac{1}{\kappa} \approx \mathbf{8.87658 \times 10^{16} \text{ meters}}$$
 
-The fundamental universal constants used as baseline data are:
-*   **Planck Constant ($h$):** $6.62607015 \times 10^{-34} \text{ J}\cdot\text{s}$
-*   **Speed of Light in a Vacuum ($c$):** $2.99792458 \times 10^8 \text{ m/s}$
-*   **Universal Gravitational Constant ($G$):** $6.67430 \times 10^{-11} \text{ m}^3/(\text{kg}\cdot\text{s}^2)$
+The total volumetric capacity of the physical processing core before any fractal data amplification is calculated by cubing this fundamental matrix boundary:
+$$V_{univ} = s^3 = \left(\frac{1}{\kappa}\right)^3 = (8.87658 \times 10^{16} \text{ m})^3 \approx \mathbf{6.99532 \times 10^{50} \text{ m}^3}$$
 
-### 1. Pure Planck Length ($l_P$)
-$$l_P = \sqrt{\frac{h \cdot G}{c^3}} \approx 4.05136 \times 10^{-35} \text{ meters}$$
+#### IV. Total Core Pixel Resolution (Information Bit Capacity)
+By dividing this total core matrix volume ($V_{univ}$) by the indivisible Pure Planck cubic pixel volume ($V_P \approx 6.64966 \times 10^{-104} \text{ m}^3$), we reveal the absolute structural computing resolution of the ROL hardware engine:
+$$\text{Total Processing Bits} = \frac{V_{univ}}{V_P} = \frac{6.99532 \times 10^{50} \text{ m}^3}{6.64966 \times 10^{-104} \text{ m}^3} \approx \mathbf{1.05198 \times 10^{154} \text{ operational pixels}}$$
 
-### 2. Pure Planck Time ($t_P$)
-$$t_P = \sqrt{\frac{h \cdot G}{c^5}} = \frac{l_P}{c} \approx 1.35138 \times 10^{-43} \text{ seconds}$$
+This capacity of **$1.05198 \times 10^{154}$ bits** represents the raw data density of the master microchip. It holds the complete virtual structure of our galaxy and deep cosmos, which are projected into our senses through the exponential zoom scaling factor ($\Psi = \psi^3$).
 
-### 3. Planck Energy ($E_P$)
-$$E_P = \frac{h}{t_P} \approx 4.90319 \times 10^9 \text{ Joules}$$
+## V. THE DIRECTIONAL LINEAR DEVIATION CONSTANT ($\kappa$)
 
----
+The large-scale structure of the **ROL Universe** does not depend on a physical, expanding relativistic radius. Instead, it is governed by an intrinsic operational constraint of the network matrix: the **Directional Linear Deviation Constant ($\kappa$)**.
 
-## IV. THE PURE PLANCK CUBIC VOLUME ($V_P$)
-The **Cubic Volume of Planck** represents the absolute, indivisible unit of static spacetime or the container of static minimum energy-time. In this orthogonal matrix, it represents the smallest three-dimensional brick of reality. It is calculated by cubing the pure Planck length ($l_P$):
+*   **Linear Deviation Constant ($\kappa$):** $1.12656 \times 10^{-17} \text{ m}^{-1}$
+*   **Intrinsic 2D Curvature Metric ($k = \kappa^2$):** $1.26914 \times 10^{-34} \text{ m}^{-2}$
 
-$$V_P = l_P^3 = \left(\sqrt{\frac{h \cdot G}{c^3}}\right)^3 = \sqrt{\frac{h^3 \cdot G^3}{c^9}}$$
-$$V_P = (4.05136 \times 10^{-35} \text{ m})^3 \approx \mathbf{6.65022 \times 10^{-104} \text{ m}^3}$$
+### 1. Mechanics of the 0.5-Meter Photon Shift
+As a photon processes through the orthogonal matrix, the hardware engine applies an infinitesimal angular deflection for every single meter of spatial translation. 
 
----
+When a photon travels at the invariant speed of light ($c$) for exactly **1 second**, the accumulated angular deflection ($\theta_{1s}$) and its corresponding physical lateral displacement ($y$) are derived as follows:
+$$\theta_{1s} = \kappa \cdot c \approx 3.37734 \times 10^{-9} \text{ radians}$$
+$$y = \frac{1}{2} \kappa (c \cdot 1 \text{ s})^2 \approx \mathbf{0.50625 \text{ meters}}$$
 
-## V. DERIVATION OF THE PURE PLANCK ACCELERATION & CRITICAL DENSITY
+### 2. The Curvature Illusion and Core Loop Limits
+This physical displacement of **0.50625 meters per second** is invisible at human or planetary scales, rendering the local universe indistinguishable from flat Euclidean space. 
 
-### 1. Pure Planck Acceleration Constant ($a_P$)
-The acceleration constant defines the ultimate limit of velocity change per unit of time. It is calculated using two independent methodologies to demonstrate absolute mathematical consistency within the framework:
-* **Method 1 (Geometrical Derivative):** Calculates the kinematic slope across spatial pixels over temporal frames.
-$$a_P = \frac{l_P}{t_P^2} \approx \mathbf{2.21841 \times 10^{51} \text{ m/s}^2}$$
-* **Method 2 (Quantum Action Dynamics):** Solves via quantum force-mass distribution ($F_P / m_P$), injecting pure action ($h$) over the pixel limits.
-$$a_P = \frac{h}{m_P \cdot t_P \cdot l_P} \approx \mathbf{2.21841 \times 10^{51} \text{ m/s}^2}$$
+However, to complete a full $360^\circ$ ($2\pi\text{ radians}$) closed loop within the matrix, a photon does not orbit a physical central mass; it simply accumulates deflections across coordinates until the trajectory resets. The linear distance required to complete this internal processing loop is:
+$$\text{Core Path Length} = \frac{2\pi}{\kappa} \approx \mathbf{5.57732 \times 10^{17} \text{ meters}}$$
 
-### 2. Planck Critical Density Calculation ($\rho_P$)
-Critical Density defines the exact amount of mass/energy compressed within a single cubic pixel ($l_P^3$). Using the derived quantum mass ($m_P = E_P / c^2 \approx 5.45543 \times 10^{-8} \text{ kg}$):
-$$\rho_P = \frac{m_P}{l_P^3} = \frac{c^5}{h \cdot G^2} \approx \mathbf{8.20311 \times 10^{95} \text{ kg/m}^3}$$
+When scaled by the **Linear Fractal Stretching Coeff ($\psi = 4.95686 \times 10^9$)**, this path length expands the virtual routing timeline, forcing the macro cosmic loop flight time to register at exactly **292.22 Billion Years**.
 
----
 
 ## VI. UNIFIED SYSTEM SUMMARY TABLE
 
