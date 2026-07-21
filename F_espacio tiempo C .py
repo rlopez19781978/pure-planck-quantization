@@ -26,7 +26,7 @@ v2 = c * np.sqrt(1 - t2**2)
 
 # -----------------------------
 # -----------------------------
-# Punto 3: Cálculo del Radio de Curvatura Real (Espacio-Tiempo)
+# Punto 3: Cálculo del Radio de Curvatura Real para el movimiento (Espacio-Tiempo): comportamiento del tiempo en relación a la velocidad de movimiento
 # -----------------------------
 # Al proyectar el espacio de fases a una métrica geométrica usando 1 segundo de referencia:
 radio_curvatura_km = c                     # R = 299792.4583 km
