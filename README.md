@@ -6,10 +6,11 @@ Documento de especificación teórica, fundamento filosófico y cálculos del mo
 
 El marco de trabajo de **Universe ROL** propone una conexión profunda entre el microcosmos y el macrocosmos:
 
-1. **La Unidad Absoluta (El TODO):** El universo es un sistema único y completo (un TODO). Representa la escala máxima posible de la existencia. Mecanísticamente, se conecta de forma directa con la escala más pequeña posible de la realidad a través de la constante de Planck pura ($h$). Esto crea un espejo holográfico y geométrico perfecto.
-2. **Proyección de 2.5D a 3D:** El tejido fundamental de la realidad tiene solo dos direcciones estructurales ($X$-$Y$). Una curvatura espacio-temporal intrínseca e infinitesimal actúa como la tercera dimensión, proyectando la realidad volumétrica en 3D que percibimos.
-3. **Finito pero sin Límites:** El universo contiene un volumen finito y una capacidad de energía total finita, pero no tiene un final o fronteras físicas. Moverse en línea recta a lo largo de la red hace que el viajero regrese indefinidamente a su posición inicial (similar a circunnavegar un planeta).
-4. **Tiempo Relativista:** El tiempo es una consecuencia directa del movimiento dentro de la red del espacio-tiempo. Para un punto de referencia absolutamente estacionario, el tiempo avanza. A medida que la velocidad aumenta hacia la velocidad de la luz ($c$), el desplazamiento espacial domina y el tiempo se detiene por completo para la entidad en movimiento.
+1. **La Unidad Absoluta (El TODO):** El universo es un sistema único y completo (un TODO). Representa la escala máxima posible de la existencia. Mecanísticamente, se conecta de forma directa con la escala más pequeña posible de la realidad a través de la constante de Planck pura ($h$), ya que es el minimo incremento infinitesimal que puede existir en el universo. Es decir que la mínima desviación posible define el radio de curvatura del universo. Conecta lo más pequeño que puede existir con el TODO, con el radio de curvatura del universo. Es la constante de Dios, es la constante de Planck. R=1/h.
+
+2. **Proyección de 2D a 3D+t:** El tejido fundamental de la realidad tiene solo dos direcciones estructurales ($X$-$Y$). Una curvatura espacio-temporal intrínseca e infinitesimal que actúa como la tercera dimensión, proyectando la realidad volumétrica en 3D que percibimos.
+3. **Finito pero sin Límites:** El universo contiene un volumen finito y una capacidad de energía total finita, pero no tiene un final o fronteras físicas. Moverse en línea recta a lo largo de la red hace que el viajero regrese a su posición inicial al cabo de 9.4825215625e+33 metros (similar a circunnavegar un planeta).
+4. **Tiempo Relativista:** El tiempo es una consecuencia directa del movimiento dentro de la red del espacio-tiempo. Para un punto de referencia absolutamente estacionario, el tiempo avanza. A medida que la velocidad aumenta hacia la velocidad de la luz ($c$), el desplazamiento espacial domina y el tiempo se detiene por completo para la entidad en movimiento, para la conjunción espacio-tiempo se produce deslizamiento máximo del espacio y minimo del tiempo (el tiempo se detiene).
 5. **La Sustancia Pura ($h$):** Este modelo elimina por completo el sesgo circular/angular de $2\pi$ introducido por la constante reducida de Planck ($\hbar$).
 
 ### 🧬 Desglose Dimensional de $h$ como Métrica de Curvatura
@@ -50,10 +51,10 @@ Tiempo para dar una vuelta:  1.0023033200e+18 años luz / años temporales
 | Métrica del Sistema | Fórmula Simbólica | Valor (Unidades SI) |
 | :--- | :--- | :--- |
 | **Radio del Horizonte Cósmico** | $R_{univ} = 1/h$ | $1.5091901796 \times 10^{33} \text{ m}$ |
-| **Volumen Total del Tejido** | $V_{univ} = \frac{4}{3}\pi R^3$ | $1.4398608422 \times 10^{100} \text{ m}^3$ |
+| **Volumen Total del universo* | $V_{univ} = \frac{4}{3}\pi R^3$ | $1.4398608422 \times 10^{100} \text{ m}^3$ |
 | **Espacio de la Unidad Fundamental** | $V_P = l_P^3$ | $6.6496604020 \times 10^{-104} \text{ m}^3$ |
-| **Resolución Total del Sistema** | $N_{bits} = V_{univ}/V_P$ | $2.1653148510 \times 10^{203} \text{ píxeles}$ |
-| **Límite Absoluto de Energía** | $E_{max} = N_{bits} \cdot E_P$ | $1.0616905818 \times 10^{213} \text{ J}$ |
+| **Resolución Total del universo** | $N_{bits} = V_{univ}/V_P$ | $2.1653148510 \times 10^{203} \text{ píxeles}$ |
+| **Límite Absoluto de Energía en universo** | $E_{max} = N_{bits} \cdot E_P$ | $1.0616905818 \times 10^{213} \text{ J}$ |
 
 ### 🚀 Perspectivas de la Velocidad Geométrica
 * **Perímetro Métrico:** La circunferencia real de envoltura del universo abarca **$9.4825215625 \times 10^{33}$ metros**.
@@ -71,5 +72,4 @@ La estructura matemática intrínseca del modelo Universe ROL produce fenómenos
 
 ### 🌀 Trayectorias Interiores y Sub-Bucles
 * **Desplazamiento Curvo:** Si una entidad se desvía de una línea recta y sigue una trayectoria que ya es físicamente curva en la red, ejecutará una **circunvalación interior** (sub-bucle).
-* **Perímetro Dependiente del Radio:** Estos sub-bucles comprimen la distancia métrica requerida para regresar al vector de origen. Su límite interno y la longitud total del bucle se pueden calcular analíticamente en función del radio de curvatura de la trayectoria local.
-
+* **Perímetro Dependiente del Radio:** Estos sub-bucles
