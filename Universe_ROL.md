@@ -71,59 +71,17 @@ $$\text{Total Spatial Pixels} = \frac{c \cdot 3600 \text{ s}}{l_P} = \frac{1.079
 ### Theoretical Implication:
 The absolute symmetry between temporal frames and spatial pixels ($\approx 2.66393 \times 10^{46}$) mathematically proves that motion at the speed of light is a strict 1:1 pixel-to-frame translation. Light does not glide smoothly; for every chronon ($t_P$) that ticks, a photon teleports exactly one quantum pixel ($l_P$) forward in the matrix.
 
----
 
-## V. THE CORE HARDWARE ENGINE & FRACTAL PROJECTIVE METRICS
-
-Rather than a physically expanding spatial volume, the system architecture of the ROL Universe operates via an intrinsic hardware engine whose closed loops project the illusion of an expansive cosmos.
-
-### 1. Matrix Structural Constants & Core Dimensions
-*   **Directional Linear Curvature ($\kappa$):** $1.12656 \times 10^{-17} \text{ m}^{-1}$
-*   **Intrinsic 2D Plane Curvature ($k = \kappa^2$):** $1.26914 \times 10^{-34} \text{ m}^{-2}$
-*   **Linear Fractal Stretching Coeff ($\psi$):** $4.95686 \times 10^9$
-*   **Volumetric Expansion Factor ($\Psi = \psi^3$):** $1.21793 \times 10^{29}$
-*   **Intrinsic Core Radius ($R_{int}$):** $R_{int} = \frac{1}{\kappa} \approx 8.87658 \times 10^{16} \text{ meters}$ ($\approx \mathbf{9.38\text{ Light-Years}}$)
-*   **Core Hardware Engine Volume ($V_{univ}$):** $V_{univ} = \frac{4}{3}\pi R_{int}^3 \approx 2.92972 \times 10^{51} \text{ m}^3$
-*   **Total Core Matrix Pixels (Information Bits):** $\frac{V_{univ}}{V_P} \approx \mathbf{4.40582 \times 10^{154}\text{ operational pixels}}$
-
----
-
-## VI. THE FRACTAL PROJECTION MECHANISM (THE DIGITAL ZOOM)
-
-### VI.A. The Digital Zoom Effect: Geometric Scaling vs. Physical Movement
-The fundamental mechanism of cosmic projection behaves exactly like a **Digital Zoom** on a high-resolution image:
-*   **The Static Canvas:** When an observer zooms in on a digital photograph, the physical pixels on the monitor screen do not move or physically expand. The distance between the hardware sub-pixels remains fixed.
-*   **The Rendered Illusion:** Within the rendered data of the image, two adjacent points appear to drift massively apart, creating the optical perception of expansive distance.
-
-In the ROL Universe, the **Linear Fractal Stretching Coeff ($\psi = 4.95686 \times 10^9$)** is the universal "Zoom Factor" of reality. Space does not stretch via kinetic motion—it separates via digital amplification.
-
-### VI.B. The Galactic Paradox: Virtual Space vs. The Physical Processor
-Mainstream astronomy measures the Milky Way at approximately **100,000 light-years in diameter**, which visually dwarfs the physical Intrinsic Core Radius ($R_{int} \approx 9.38\text{ LY}$) of the engine. 
-
-This structural divergence is resolved through **Holographic Data Compression**. The Milky Way is not a physical object hosting the matrix; the matrix is the physical processor hosting the Milky Way as a localized data structure. Stars on opposite sides of the galaxy are mapped onto adjacent operational pixels within the core engine. The 100,000 light-years of "empty space" is an optical illusion created by the fractal zoom routing processing lag of photons.
-
-### VI.C. Comparative Analysis: Observable Cosmos vs. Ontological Phase Volume
+### V. Comparative Analysis: Observable Cosmos vs. Ontological Phase Volume
 Mainstream astrophysics estimates the radius of the observable universe to be $4.40 \times 10^{26} \text{ m}$ ($\approx 46.5 \text{ Billion LY}$), yielding a virtual volume of $3.57 \times 10^{80} \text{ m}^3$. This macro-space theater is perfectly mapped within the core hardware engine's capacity via the volumetric projection:
 $$V_{real} = V_{univ} \cdot \Psi = (2.92972 \times 10^{51} \text{ m}^3) \cdot (1.21793 \times 10^{29}) \approx 3.56818 \times 10^{80} \text{ m}^3$$
 
 ---
 
-## VII. THE COSMIC TEMPORAL HALL OF MIRRORS & UNWRAPPED ORBITS
-
-### 1. Core Loop Processing Limit
-The directional curvature forces a uniform angular displacement on photons. To complete a full 360° ($2\pi$ radians) loop within the core engine, a photon does not process time in macroscopic years, but through a finite sequence of internal clock tics:
-$$\text{Angular Delta per Second:} \quad \theta_{sec} = \kappa \cdot c \approx 3.37734 \times 10^{-9} \text{ rad/s}$$
-$$\text{Core Clock Cycles:} \quad \text{Core Clock Cycles} = \frac{2\pi}{\theta_{sec} \cdot t_P} \approx 1.37665 \times 10^{52} \text{ chronons}$$
-
-### 2. Unwrapped Macro Scale Unification
-*   **Macro Circumnavigation Orbit Perimeter:** $2\pi \cdot R_{real} = 2\pi \cdot (R_{int} \cdot \psi) \approx \mathbf{292.22 \times 10^9 \text{ Light-Years}}$
-*   **Cosmic Temporal Hall of Mirrors Loop (Flight Time):**
-    $$\text{Macro Clock Cycles} = \text{Core Clock Cycles} \cdot \psi \approx 6.82386 \times 10^{61} \text{ chronons}$$
-    $$\text{Flight Time} = \text{Macro Clock Cycles} \cdot t_P \approx 9.22170 \times 10^{18} \text{ seconds} \implies \mathbf{292.22 \times 10^9 \text{ Years}}$$
 
 ---
 
-## VIII. NON-SINGULAR BLACK HOLES AS HOLLOW TOPOLOGICAL VOIDS
+## VI. NON-SINGULAR BLACK HOLES AS HOLLOW TOPOLOGICAL VOIDS
 
 ### 1. The Orthogonal Event Horizon vs. Spherical Bias
 By enforcing pure $h$ and an orthogonal cubic lattice, this model establishes that the event horizon of a quantum black hole is not a smooth sphere, but a stepped, cubically pixelated boundary. Each surface pixel holds exactly one unit of fundamental action ($h$), representing the absolute limit of information density unskewed by the $2\pi$ factor.
@@ -138,7 +96,7 @@ To an external observer, time near the black hole slows down. This is an optical
 
 ---
 
-## IX. CONCLUSIONS: THE DEFINITIVE LAWS OF THE ROL MATRIX
+## VII. CONCLUSIONS: THE DEFINITIVE LAWS OF THE ROL MATRIX
 
 The technical and mathematical development codified in this research establishes three absolute truths about the cosmos:
 
