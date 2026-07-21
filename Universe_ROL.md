@@ -126,7 +126,7 @@ The directional curvature forces an incremental, continuous angular displacement
 
 ---
 
-## VIII. THE COSMIC TEMPORAL HALL OF MIRRORS: SCALE UNIFICATION
+## VIII. THE COSMIC TEMPORAL: SCALE UNIFICATION
 
 The greatest illusion of mainstream astrophysics is the physical volume bias of a vast, independent "Observable Universe" measuring $3.56818 \times 10^{80} \text{ m}^3$ with a radius of $4.40 \times 10^{26} \text{ m}$ ($\approx 46.5 \text{ Billion Light-Years}$). 
 
