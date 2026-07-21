@@ -29,4 +29,4 @@ All data is processed using standard unrounded International System of Units (SI
 * **Gravitational Constant ($G$):** $6.67430 \times 10^{-11} \text{ m}^3/(\text{kg}\cdot\text{s}^2)$
 
 ### ⚙️ Engine Output Metrics
-
+--- RESULTADOS DEL CONTENEDOR UNIVERSAL ---Radio del Universo (R_univ): 1.5091901796e+33 metrosVolumen Esférico (V_univ):  1.4398608422e+100 m³Volumen Píxel Cuántico (V_P): 6.6496604020e-104 m³Capacidad Total (Quantums):  2.1653148510e+203 píxeles operacionalesEnergía Máxima (E_max):      1.0616905818e+213 Joules--- ANÁLISIS DE CIRCUNNAVEGACIÓN ---Perímetro Cósmico:           9.4825215625e+33 metrosTiempo para dar una vuelta:  1.0023033200e+18 años luz / años temporales
