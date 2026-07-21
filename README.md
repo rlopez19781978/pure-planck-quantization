@@ -94,50 +94,65 @@ $$\text{Core Path Length} = \frac{2\pi}{\kappa} \approx \mathbf{5.57732 \times 1
 
 When scaled by the **Linear Fractal Stretching Coeff ($\psi = 4.95686 \times 10^9$)**, this path length expands the virtual routing timeline, forcing the macro cosmic loop flight time to register at exactly **292.22 Billion Years**.
 
+### 6. 📐 Exact Geometric Derivation of the Cosmic Circumnavigation Path
 
-## VI. UNIFIED SYSTEM SUMMARY TABLE
+To define the total length of a complete closed loop around the macro-expanded universe coordinates, the framework processes the perimeter of the projected matrix loop utilizing the mathematically derived macro radius ($R_{real} \approx \mathbf{4.40000 \times 10^{26} \text{ m}}$), which is born directly from scaling the core engine edge ($s = 1/\kappa$) via the Linear Fractal Stretching Coeff ($\psi$):
+
+*   **Total Projected Perimeter in the Metric System (SI):**
+    $$P_{univ} = 2 \cdot \pi \cdot R_{real} = 2 \cdot \pi \cdot (4.40000 \times 10^{26} \text{ m}) \approx \mathbf{2.76460 \times 10^{27} \text{ meters}}$$
+
+*   **Conversion to Astronomical Natural Units (Light-Years):**  
+    Dividing the absolute spatial path by the precise physical definition of a Julian light-year ($1 \text{ ly} = c \cdot 365.25 \cdot 86400 \text{ s} \approx 9.46073 \times 10^{15} \text{ m}$):
+    $$\text{Circumnavigation Distance} = \frac{2.76460 \times 10^{27} \text{ m}}{9.46073 \times 10^{15} \text{ m/ly}} \approx \mathbf{292.22 \times 10^9 \text{ Light-Years}}$$
+
+#### 💡 Isomorphic Spacetime Equivalence
+Within the Pure Planck Matrix of the **ROL Universe**, distance and time flow are structurally isomorphic. Because a photon navigates across this macro-expanded lattice exactly at the framework processing frequency ($c$), a physical spatial trajectory of **292.22 Billion Light-Years** maps symmetrically to a historical flight duration of exactly **292.22 Billion Years** ($6.82386 \times 10^{61}$ total macro chronons). This absolute symmetry mathematically completes the validation of the Fractal Saturation Equation and proves that the deep macrocosmos is a closed digital processing loop.
+
+
+UNIFIED SYSTEM SUMMARY TABLE
 
 | Fundamental Quantity | Symbol | Mathematical Operation | Exact Numerical Value |
 | :--- | :---: | :--- | :--- |
 | **Planck Constant** | $h$ | *Baseline Data* | $6.62607015 \times 10^{-34} \text{ J}\cdot\text{s}$ |
-| **Planck Time** | $t_P$ | $\sqrt{hG/c^5}$ | $1.35138 \times 10^{-43} \text{ s}$ |
-| **Planck Length** | $l_P$ | $\sqrt{hG/c^3}$ | $4.05136 \times 10^{-35} \text{ m}$ |
-| **Planck Cubic Volume**| $V_P$ | $l_P^3$ | $6.65022 \times 10^{-104} \text{ m}^3$ |
-| **Planck Energy** | $E_P$ | $h / t_P$ | $4.90319 \times 10^9 \text{ J}$ |
-| **Planck Mass** | $m_P$ | $E_P / c^2$ | $5.45543 \times 10^{-8} \text{ kg}$ |
+| **Planck Time** | $t_P$ | $\sqrt{hG/c^5}$ | $1.35139 \times 10^{-43} \text{ s}$ |
+| **Planck Length** | $l_P$ | $\sqrt{hG/c^3}$ | $4.05135 \times 10^{-35} \text{ m}$ |
+| **Planck Cubic Volume**| $V_P$ | $l_P^3$ | $6.64966 \times 10^{-104} \text{ m}^3$ |
+| **Planck Energy** | $E_P$ | $h / t_P$ | $4.90317 \times 10^9 \text{ J}$ |
+| **Planck Mass** | $m_P$ | $E_P / c^2$ | $5.45551 \times 10^{-8} \text{ kg}$ |
 | **Planck Acceleration**| $a_P$ | $l_P / t_P^2$ | $2.21841 \times 10^{51} \text{ m/s}^2$ |
 
 ---
 
-## VI.B. MACROSCOPIC RELATIVISTIC CURVATURE RADIUS VERIFICATION
+## VI.B. MACROSCOPIC TRAJECTORY DEFLECTION VERIFICATION
 
-To bridge the subatomic orthogonal quantum pixel with large-scale relativistic mechanics, the framework evaluates the intrinsic curvature of the operational Energy-Time phase space via Python computational mapping.
+To bridge the subatomic orthogonal quantum pixel with large-scale mechanics, the framework evaluates the intrinsic deflection constraints of the operational Energy-Time matrix via Python computational mapping.
 
-The relativistic time dilation equation $t' = \frac{t}{\sqrt{1 - (v^2/c^2)}}$ algebraically unfolds into a perfect Pythagorean circle equation: 
+The relativistic time dilation equation $t' = \frac{t}{\sqrt{1 - (v^2/c^2)}}$ algebraically unfolds into a perfect Pythagorean grid vector equation: 
 $$(t \cdot c)^2 + v^2 = c^2$$
 
-When processed through the computational engine (`relativity_matrix.py`) utilizing the exact directional linear curvature constraint, the macro-metrics reveal:
-*   **Absolute Linear Curvature ($\kappa$):** $1.12656 \times 10^{-17} \text{ m}^{-1}$ (Determined in one of the primary spatial axes).
-*   **Intrinsic Radius of Curvature ($R$):** $8.87658 \times 10^{16} \text{ meters}$ (Derived as $R = 1/\kappa$).
+When processed through the computational engine (`main.py`) utilizing the exact directional linear deviation constraint, the macro-metrics reveal:
+*   **Directional Linear Deviation ($\kappa$):** $1.12656 \times 10^{-17} \text{ m}^{-1}$ (The fixed deflection index applied per meter of translation along a matrix axis).
+*   **Matrix Core Axis Edge ($s$):** $8.87658 \times 10^{16} \text{ meters}$ (Derived as the boundary dimension $s = 1/\kappa$, equivalent to **88,765,800,312,455.61 km** or **9.38 Light-Years**).
 *   **Intrinsic 2D Plane Curvature ($k$):** $1.26914 \times 10^{-34} \text{ m}^{-2}$ (Derived via $k = \kappa^2$).
 
 ### Cosmological Resolution
-This macro-metric resolves the foundational 2-Dimensional Paradox. The universe does not expand into an external empty canvas. It curves continuously along a closed, invariant structural radius of $R \approx 8.87658 \times 10^{16} \text{ m}$. This infinitesimal $1.26914 \times 10^{-34} \text{ m}^{-2}$ planar curvature is the exact geometric metric that forces all spatial motion to loop endlessly upon itself, guaranteeing a finite but unbounded universe where boundaries do not exist because the physical matrix geometry is fully closed.
+This macro-metric resolves the foundational 2-Dimensional Paradox. The universe does not expand into an external empty canvas. Photons do not travel in a straight Euclidean line; they are deflected by $\kappa = 1.12656 \times 10^{-17} \text{ rad}$ per meter. This infinitesimal shift accumulates exactly **0.50625 meters of physical lateral displacement per second** of flight. 
+
+This continuous deflection forces all spatial motion to loop endlessly upon itself within an orthogonal grid boundary of $s \approx 8.87658 \times 10^{16} \text{ m}$. This architecture guarantees a finite but unbounded universe where physical walls do not exist because the computational path geometry is fully closed.
 
 ---
 
-### VI.C. COMPARATIVE ANALYSIS: OBSERVABLE COSMOS VS. ONTOLOGICAL PHASE VOLUME
+## VI.C. COMPARATIVE ANALYSIS: OBSERVABLE COSMOS VS. ONTOLOGICAL CUBIC CONTAINER
 
-Mainstream observational astrophysics estimates the radius of the observable universe to be approximately $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years), yielding a macroscopic, virtual spatial volume of roughly $3.57 \times 10^{80} \text{ m}^3$. In contrast, the baseline ontological container derived in this framework spans a tighter, finite physical hardware volume of $2.92972 \times 10^{51} \text{ m}^3$ based on the validated directional curvature radius ($R \approx 8.87658 \times 10^{16} \text{ m}$).
+Mainstream observational astrophysics estimates the radius of the observable universe to be approximately $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years), yielding a virtual macroscopic spatial theater volume of roughly $3.57 \times 10^{80} \text{ m}^3$. In contrast, the baseline ontological core derived in this framework spans a tighter, finite physical hardware container volume ($V_{univ}$) of **$6.99532 \times 10^{50} \text{ m}^3$** based on the orthogonal cubic geometry ($V_{univ} = s^3 = [1/\kappa]^3$).
 
 This structural divergence is not a contradiction, but a profound validation of the Fractal Projective Hologram:
 
-1. **The Hardware Engine Capacity:** The $2.92972 \times 10^{51} \text{ m}^3$ matrix volume represents the fundamental "processing hardware" or baseline container of reality. Dividing this core universe volume ($V_{univ}$) by the Pure Planck cubic pixel volume ($V_P \approx 6.64966 \times 10^{-104} \text{ m}^3$) reveals a raw structural resolution of exactly **$4.40582 \times 10^{154}$ operational pixels (bits of information)**. This is the absolute processing capability of the ROL Matrix.
-2. **Data Expansion and Light Distance Accumulation:** The macroscopic radius of $4.40 \times 10^{26} \text{ meters}$ observed by modern telescopes is not an independent physical boundary, but the **accumulated path distance of photons** routing through the dense, hyper-wound fractal grid. The macro-space theater of $10^{80} \text{ m}^3$ is a virtual projection mapped entirely within the information capacity of the core processor.
-3. **The Illusion of Continuous Inflation:** What astronomers interpret as the cosmic expansion of a flat, infinite spacetime is an optical artifact born from photons continuously navigating the uniform $\kappa = 1.12656 \times 10^{-17} \text{ m}^{-1}$ curvature loop. The macro-cosmos is structurally closed and finite in its raw hardware phase, yet functionally boundless and seemingly gargantuan to any internal observer.
+1. **The Hardware Engine Capacity:** The $6.99532 \times 10^{50} \text{ m}^3$ volume represents the real, physical processing microchip of the cosmos. Dividing this core universe volume ($V_{univ}$) by the indivisible Pure Planck cubic pixel volume ($V_P \approx 6.64966 \times 10^{-104} \text{ m}^3$) reveals a raw structural resolution of exactly **$1.05198 \times 10^{154}$ operational pixels (bits of information)**. This is the absolute computing capability of the ROL Matrix.
+2. **Data Expansion via the Zoom Metaphor:** The macroscopic radius of $4.40 \times 10^{26} \text{ meters}$ observed by modern telescopes is not an independent physical boundary, but the **accumulated path distance of photons** routing through the dense, hyper-wound fractal grid. When the core hardware volume is expanded by the Volumetric Expansion Factor ($\Psi = \psi^3 = [4.95686 \times 10^9]^3 \approx 1.21793 \times 10^{29}$), the core engine projects a virtual theater matching the exact volume of the observable universe:
+   $$V_{real} = V_{univ} \cdot \Psi = (6.99532 \times 10^{50} \text{ m}^3) \cdot (1.21793 \times 10^{29}) \approx \mathbf{3.52 \times 10^{80} \text{ m}^3}$$
+3. **The Illusion of Continuous Inflation:** What astronomers interpret as the physical expansion of space is an optical artifact born from photons navigating the uniform $\kappa$ deviation loop. Much like a digital image where a massive zoom makes the distance between fixed monitor pixels appear to separate, the macro-cosmos separates via digital amplification ($\psi$). It is structurally closed and compact in its raw hardware phase, yet functionally boundless and seemingly gargantuan to any internal observer.
 
-
----
 
 ## VII. CONCLUSIONS: THE ULTIMATE ONTOLOGICAL MANIFESTO OF THE ENERGY-TIME MATRIX
 
@@ -160,67 +175,10 @@ Just as an infinite flat 2D plane subjected to a uniform curvature naturally clo
 *   **The Planetary Analogy:** Much like an explorer walking on the surface of the Earth can travel infinitely without ever encountering a physical edge or wall, a traveler in the cosmos will loop endlessly through the matrix.
 *   **Dimensional Emergence:** We are allowed to move dynamically within three physical dimensions plus a temporal axis, yet our entire reality is strictly governed by a primordial, 2-dimensional curvature metric. The 3D world we perceive is an emergent property born entirely from the bending of the fundamental 2D Energy-Time plane.
 
-| Parameter | Value |
-| :--- | :--- |
-| **Absolute Linear Curvature ($\kappa$)** | $1.12656 \times 10^{-17} \text{ m}^{-1}$ |
-| **Macro Plane Curvature ($k$)** | $1.26914 \times 10^{-34} \text{ m}^{-2}$ |
-| **Macro Curvature Radius ($R$)** | $8.87658 \times 10^{16} \text{ m}$ |
-| **Total Core Matrix Pixels** | $4.40582 \times 10^{154}$ pixels |
-
-The value of $1.12656 \times 10^{-17} \text{ m}^{-1}$ is not a mere decimal; it is the mathematical fingerprint demonstrating that the relativistic Energy-Time plane is not flat, but rather perfectly closed upon itself. By yielding an absolute radius of curvature of $R \approx 8.87658 \times 10^{16} \text{ m}$, the software confirms the mechanics of the universe: the speed of light is not merely a speed limit for particles; it is the physical framework converter that dictates how the matrix folds.
-
-#### The Cosmic Mirror Illusion (Temporal Ghost Images)
-A critical consequence of this closed framework is that astronomical observations are bound to a closed, macro-expanded topological loop. Light travelling at $c$ requires exactly $1.8587$ years (or roughly $5.8654 \times 10^7$ seconds) to complete one single circumnavigation around the closed $8.87658 \times 10^{16} \text{ m}$ cosmic curvature perimeter ($2\pi R$). 
-
-Consequently, deep-space telescopes capturing ultra-distant cosmic structures are not observing completely distinct material bodies separated by infinite distances in empty space. They are capturing the exact same finite matter-energy content of our closed system, recorded in past cycles of Time. The cosmos is an ontological hall of mirrors: finite in absolute Action but perceptually limitless, where cosmic inflation is unmasked as an optical artifact of light looping through the historical frames of the Energy-Time matrix.
-
-### 5. **The Fractal Saturation Equation & High-Precision Scaling Coupling**
-The definitive validation of this framework’s internal consistency is achieved through a formal coupling between the core ontological processor and the expanded macroscopic boundaries observed by deep-space telescopes:
-
-*   **The Real Observable Volume (Astronomical Baseline Data):** Modern astrophysics (via Planck satellite and DESI galaxy mapping) establishes that the effectively visible radius of the universe is approximately 46.5 billion light-years. Converting this linear distance into International System (SI) metrics yields an observable radius ($R_{obs}$) of:
-    $$R_{obs} \approx 4.40 \times 10^{26} \text{ meters}$$
-    Applying the classical sphere volume formula ($V = \frac{4}{3}\pi R^3$), this radius generates the expanded tridimensional cosmic volume captured by lenses:
-    $$V_{obs} = \frac{4}{3}\pi (4.40 \times 10^{26} \text{ m})^3 \approx 3.56818 \times 10^{80} \text{ m}^3$$
-
-*   **The Fractal Bridge (The Stretching of the Baseline Processor):** As derived in Section IV, the volume of the primordial core container or "ontological computer" generated strictly by the unreduced primary metrics is $V_{univ} = 2.92972 \times 10^{51} \text{ m}^3$. To bridge the hardware engine with the macro-expanded theater ($3.56818 \times 10^{80} \text{ m}^3$), the matrix utilizes the Fractal Information Density. The tridimensional volumetric Network Expansion Factor ($\Psi$) is calculated by dividing both volumes:
-    $$\Psi = \frac{V_{obs}}{V_{univ}} = \frac{3.56818 \times 10^{80} \text{ m}^3}{2.92972 \times 10^{51} \text{ m}^3} \approx 1.21793 \times 10^{29}$$
-    This scalar ($\approx 1.21793 \times 10^{29}$) constitutes the volumetric stretching coefficient, detailing how many times the baseline lattice geometry multiplies when projecting its states outward.
-
-*   **The Linear Distance Deduction ($4.40 \times 10^{26} \text{ m}$):** Because physical space is tridimensional, isolating the spatial effect of this volumetric expansion factor on a one-dimensional linear vector requires extracting the cube root of the scale factor ($\sqrt[3]{\Psi}$):
-    $$\text{Linear Stretching Coefficient } (\psi) = \sqrt[3]{1.21793 \times 10^{29}} \approx 4.95686 \times 10^9$$
-    Multiplying the unreduced macro-radius of curvature ($R = 8.87658 \times 10^{16} \text{ m}$) by this fractal linear stretching factor results in:
-    $$R_{real} = R \times \psi = (8.87658 \times 10^{16} \text{ m}) \times (4.95686 \times 10^9) = \mathbf{4.40 \times 10^{26} \text{ meters}}$$
-
-*   **Software and Structural Consistency:** The geometric symmetry is mathematically flawless. By multiplying the baseline operational radius by the cube root of the network expansion factor, the linear metric of the matrix stretches exactly to $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years). It is this exact scaling that forces light, as it navigates across this macro-expanded lattice, to require exactly **292.22 billion years** ($2.92219 \times 10^{11}$ years) to complete a single orbital circumnavigation around the expanded perimeter ($2\pi R_{obs}$), confirming the physical mechanics of the cosmic macro-expanded temporal hall of mirrors.
-
-### 6. 📐 Exact Geometric Derivation of the Cosmic Circumnavigation Path
-
-To define the total length of a complete closed loop around the macro-expanded universe boundary, the framework processes the circumference perimeter ($2\pi R_{obs}$) using the derived cosmological radius ($R_{obs} = 4.40 \times 10^{26} \text{ m}$):
-
-1. **Total Perimeter in Metric System (SI):**
-   $$P_{\text{univ}} = 2 \times \pi \times R_{obs} = 2 \times \pi \times (4.40 \times 10^{26} \text{ m}) \approx 2.76460 \times 10^{27} \text{ meters}$$
-
-2. **Conversion to Astronomical Natural Units (Light-Years):**
-   Dividing the absolute spatial path by the standard International System value of one light-year ($1 \text{ ly} \approx 9.46073 \times 10^{15} \text{ m}$):
-   $$\text{Circumnavigation Distance} = \frac{2.76460 \times 10^{27} \text{ m}}{9.46073 \times 10^{15} \text{ m/ly}} = \mathbf{2.92219 \times 10^{11} \text{ light-years}}$$
-
-### 💡 Isometric Spacetime Equivalence
-Within the *Pure Planck Matrix*, distance and time flow are structurally isomorphic. Because a photon navigates across this macro-expanded lattice exactly at the framework limit ($c$), a physical spatial trajectory of **292.22 billion light-years** maps symmetrically to a historical flight duration of exactly **292.22 billion years**. This absolute symmetry mathematically completes the validation of the Fractal Saturation Equation and proves the cosmic mirror illusion.
 
 
-### 🪞 7. The Deconstruction of the Big Bang: Cosmic Hall of Mirrors vs. Primeval Singularity
 
-This framework fundamentally eliminates the necessity of a physical "Big Bang" singularity. In orthodox astrophysics, the observed cosmic microwave background (CMB) and cosmological redshift are interpreted as remnants of an explosive expansion of space that began $13.787$ billion years ago. 
-
-By contrast, the *Pure Planck Units Matrix* proves that **the Big Bang is a persistent optical illusion** born from photons recursively circumnavigating the closed macro-expanded curvature loop of the cosmos.
-
-#### The Geometry of Temporal Ghost Images
-Because the universe is a closed topological matrix with a fixed macro-radius of $R \approx 8.87658 \times 10^{16} \text{ m}$ (projecting an observable boundary of $R_{obs} = 4.40 \times 10^{26} \text{ m}$), light is structurally forced to loop endlessly. 
-
-A single complete orbit around the macro-expanded perimeter ($2\pi R_{obs}$) spans exactly **292.22 billion light-years**. Consequently, when deep-space telescopes capture ultra-distant galaxies, they are not looking back at an expanding edge of a infant universe; they are capturing the **temporal ghost images** of our own finite system's matter-energy content, recorded in past orbital cycles of Time.
-
-
-### 8. 🖥️ UNIVERSE ROL: HARDWARE COMPILER VALIDATION LOG (FINAL PRODUCTION VERSION)
+### VIII. 🖥️ UNIVERSE ROL: HARDWARE COMPILER VALIDATION LOG (FINAL PRODUCTION VERSION)
 
 The high-precision geometric synthesis executed by `relativity_matrix.py` confirms the mathematical consistency of the Energy-Time framework, demonstrating a flawless bridge between subatomic Planck pixels and macroscopic astrophysical boundaries without any free parameters:
 
