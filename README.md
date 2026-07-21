@@ -227,7 +227,7 @@ A single complete orbit around the macro-expanded perimeter ($2\pi R_{obs}$) spa
 
 ### 🖥️ ROL COGNITIVE HARDWARE SYSTEM EXECUTION LOG
 
-The following console output represents the high-precision validation compiled by `relativity_matrix.py`, synchronizing the subatomic Planck pixel metrics with the macroscopic boundaries of the observable cosmos:
+The following console output represents the high-precision validation compiled by `Umiverse_ROL.py`, synchronizing the subatomic Planck pixel metrics with the macroscopic boundaries of the observable cosmos:
 
 ```text
 ================================================================================
