@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # =============================================================================
-# CORE Universal Constants & Framework Metrics (ROL SYSTEM)
+# CORES Universal Constants & Framework Metrics (ROL SYSTEM)
 # =============================================================================
 c_si = 299792458                  # Speed of light in SI units (m/s)
 c_km = c_si / 1000.0              # Speed of light in km/s (299792.458)
@@ -61,9 +61,9 @@ circumnavigation_ly = perimeter_obs_m / ly_in_meters  # Circumnavigation ≈ 292
 # -----------------------------------------------------------------------------
 # STEP 6: Geometrical Phase Space Mechanics (1-Second Arc Linear Bending)
 # -----------------------------------------------------------------------------
-# Corrected Phase space curvature: Calculated as 1D directional linear curvature
-k_phase = 1.112650056e-17         # Directional linear curvature per axis (m^-1)
-R_phase = 1.0 / k_phase           # Inverse yields the light-second radius (m)
+# Corrected Phase space curvature to yield the exact 'c' radius natively
+k_phase = 1.0 / c_si              # Directional linear curvature per axis (m^-1) ≈ 3.33564e-09
+R_phase = 1.0 / k_phase           # Inverse yields the light-second radius (m) = 299792458.0
 
 # Relativistic velocity vector mapping for phase visualization
 v = np.linspace(0, c_km, 500)
@@ -105,11 +105,8 @@ print("=" * 80)
 # RELATIVISTIC PHASE GRAPH GENERATION
 # =============================================================================
 plt.figure(figsize=(10, 7))
-
-# Plot the underlying metric framework bending trajectory
 plt.plot(t, v, color='#0033cc', linewidth=2.5, label='Relativistic Action Metric (Pythagorean Projection)')
 
-# Map the benchmarks to demonstrate computational synchronization
 plt.scatter(t1, v1, color='#cc0000', s=100, zorder=5, label='Kinetic Reference (v = 0.5c)')
 plt.annotate(
     f'v = 0.5c\n temporal frame = {t1:.3f}',
@@ -128,7 +125,6 @@ plt.annotate(
     arrowprops=dict(arrowstyle='->', color='#009933', lw=1.2)
 )
 
-# Structural labels mapping to the Energy-Time Substance Paradigm
 plt.xlabel('Temporal Persistence Frame Rate (Relative Time / Rest Time Block)', fontsize=11, fontweight='bold')
 plt.ylabel('Spatial Translation Velocity (Vector Component in km/s)', fontsize=11, fontweight='bold')
 plt.title('ENERGY-TIME MATRIX PHASE CURVATURE (Local Framework Waveguide Rotation)', fontsize=12, fontweight='bold', pad=15)
@@ -137,8 +133,6 @@ plt.xlim(-0.05, 1.05)
 plt.ylim(-10000, c_km + 15000)
 plt.grid(True, linestyle='--', alpha=0.6)
 plt.legend(loc='lower left', frameon=True, facecolor='#f9f9f9')
-
-# Render the matrix projection
 plt.tight_layout()
 plt.show()
 
