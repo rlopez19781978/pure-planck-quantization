@@ -247,10 +247,7 @@ The following console output represents the high-precision validation compiled b
 [+] Macro Circumnavigation Orbit Perimeter : 292.22 Billion Light-Years
 [+] Cosmic Temporal Hall of Mirrors Loop   : 292.22 Billion Years of Flight Time
 --------------------------------------------------------------------------------
-[+] Local Phase Space Curvature (k_phase) : 1.11265e-17 m^-2
-[+] Deduced Light-Second Unit Radius (R_p) : 299792458.0 meters (Perfect Match to 'c')
-[+] Deconstruction of the Big Bang Status  : CONFIRMED (Cosmic Inflation unmasked as an optical artifact)
-================================================================================
+
 ```
 
 #### 💡 Key Structural Interpretations of the ROL Output:
