@@ -10,13 +10,22 @@
 
 This framework shatters the classical illusion of smooth, continuous motion by proving that velocity at the speed of light is a strict digital step-by-step translation. Light does not glide through a vacuum; for every single tick of the universal clock, a photon teleports exactly one quantum pixel forward.
 
-### Macroscopic Scaling Verification (1 Hour Structural Composition)
-To demonstrate the mathematical scalability of the unreduced $h$ matrix, we analyze the structural composition of a standard human hour ($1\text{ h} = 3600\text{ s}$):
+Macroscopic Scaling Verification (1 Hour Structural Composition)
+To demonstrate the mathematical scalability of the unreduced 
+h
+ matrix, we analyze the structural composition of a standard human hour (
+1
+ h
+=
+3600
+ s
+):
 
-*   **Total Elapsed Chronons (Temporal Frames):**
-    $$\text{Total Chronons} = \frac{3600 \text{ s}}{1.35139 \times 10^{-43} \text{ s}} \approx \mathbf{2.66393 \times 10^{46} \text{ t_P frames}}$$
-*   **Total Spatial Pixels Traversed by Light:**
-    $$\text{Total Spatial Pixels} = \frac{c \cdot 3600 \text{ s}}{l_P} = \frac{1.07925 \times 10^{12} \text{ m}}{4.05135 \times 10^{-35} \text{ m}} \approx \mathbf{2.66393 \times 10^{46} \text{ l_P shifts}}$$
+Total Elapsed Chronons (Temporal Frames): 
+'_' allowed only in math mode
+$$\text{Total Chronons} = \frac{3600 \text{ s}}{1.35139 \times 10^{-43} \text{ s}} \approx \mathbf{2.66393 \times 10^{46} \text{ t_P frames}}$$
+Total Spatial Pixels Traversed by Light: 
+'_' allowed only in math mode
 
 **Theoretical Implication:** The absolute symmetry between temporal frames and spatial pixels ($2.66393 \times 10^{46}$) mathematically proves the digital matrix architecture. The metric of light speed ($c$) is not a speed limit; it is the **hardware processing frequency** of the Energy-Time matrix.
 
