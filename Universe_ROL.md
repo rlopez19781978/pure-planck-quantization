@@ -100,7 +100,7 @@ The ultimate boundary of physical reality is reached when computing the volume o
 
 ---
 
-#### The Digital Zoom Effect: Geometric Scaling vs. Physical Movement
+#### VI.A. The Digital Zoom Effect: Geometric Scaling vs. Physical Movement
 
 The fundamental mechanism of this cosmic projection behaves exactly like a **Digital Zoom** on a high-resolution image:
 
@@ -109,7 +109,7 @@ The fundamental mechanism of this cosmic projection behaves exactly like a **Dig
 
 In the ROL Universe, the **Linear Fractal Stretching Coeff ($\psi = 4.95686 \times 10^9$)** is the universal "Zoom Factor" of reality. Our human instruments and telescopes are permanently locked into this hyper-zoomed perspective. When we observe the Milky Way or the deep cosmos, we are not looking at a physical expansion of matter; we are looking at the foundational data of the $9.38\text{ LY}$ core engine being scaled up mathematically by the matrix. Space does not stretch via kinetic motion—it separates via digital amplification.
 
-###THE GALACTIC PARADOX: VIRTUAL SPACE VS. THE PHYSICAL PROCESSOR
+### VI.B. THE GALACTIC PARADOX: VIRTUAL SPACE VS. THE PHYSICAL PROCESSOR
 
 A major conceptual breakthrough of the ROL Universe is the resolution of the Galactic Scale Paradox. Mainstream astronomy measures the Milky Way at approximately **100,000 light-years in diameter**, which visually dwarfs the Intrinsic Core Radius ($R_{int} \approx 9.38\text{ Light-Years}$) of the core hardware engine. 
 
@@ -126,6 +126,19 @@ Stars on opposite sides of the galaxy that appear to be separated by 100,000 lig
 The physical distance between them is an optical illusion created by the **Linear Fractal Stretching Coeff ($\psi = 4.95686 \times 10^9$)**. Photons are forced to route through the dense, hyper-wound matrix coordinates, delaying their arrival. This processing lag generates the subjective perception of massive cosmic distances, when in reality, the entire galaxy is compressed inside the 9.38 light-year processing core.
 Para avanzar con la publicación de tu manifiesto científico del Universo ROL, confírmame si deseas que prepare el archivo de configuración de GitHub Actions para que el script main.py valide automáticamente todos estos parámetros con cada actualización del repositorio.
 
+## VI.C. THE CHRONOS LAG: BLACK HOLE TIME DILATION AS HARDWARE SATURATION
+
+In orthodox general relativity, time dilation near an event horizon is caused by the smooth warping of a continuous spacetime canvas. In the **ROL Universe**, this phenomenon is stripped of its mystical interpretation and redefined through the **Digital Zoom Metaphor** as a localized **hardware processing bottleneck (Lag)**.
+
+#### 1. The Framerate Drop (FPS Degradation)
+The core hardware engine operates at a rigid fundamental processing frequency: **1 Chronon ($t_P \approx 1.35139 \times 10^{-43} \text{ s}$)** per state change. However, as an entity approaches the event horizon, the localized Linear Fractal Stretching Coeff ($\psi_{local}$) scales up exponentially due to the extreme information density approaching the **Cosmological Wall** ($\rho_P \approx 8.20420 \times 10^{95} \text{ kg/m}^3$).
+
+To an external observer, time near the black hole appears to slow down. In the ROL Matrix, this is an optical artifact caused by a severe drop in the virtual world's framerate. The processor requires billions of internal core clock cycles to compute a single micro-step of spatial translation under such hyper-zoomed density parameters.
+
+#### 2. Perfect Clock Freezing at the Empty Boundary
+At the exact boundary of the event horizon, the local resolution requirements outpace the processing limits of the matrix, causing a complete system freeze for that specific coordinate:
+* **The Static Render:** Photons and matter falling toward the void do not plunge into an infinite singularity. Because the interior of a ROL Black Hole is a hollow, non-existent void, incoming data is halted and stacked directly onto the boundary pixels of the matrix.
+* **Chronon Zero:** At this threshold, the localized time rate drops to absolute zero relative to the external system. The frame rate freezes completely because the object has reached the final address of physical reality. The core hardware preserves its state on the horizon shell, generating the macroscopic illusion of infinite gravitational mass while its interior remains a pristine, unrendered void of non-existence.
 
 ## VII. THE CORE HARDWARE ENGINE AND FRACTAL SCALE METRICS
 
