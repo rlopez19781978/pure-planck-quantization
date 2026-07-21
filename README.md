@@ -188,26 +188,27 @@ The high-precision geometric synthesis executed by `relativity_matrix.py` confir
   PURE PLANCK ENERGY-TIME MATRIX GEOMETRY & COUPLING VALIDATION ENGINE
 ================================================================================
 [+] Directional Linear Curvature (kappa)  : 1.12656e-17 m^-1
-[+] Intrinsic Macro Radius (R)             : 8.87658e+16 m  (88765800312455.6094 km)
+[+] Intrinsic Macro Metric Boundary (s)    : 8.87658e+16 m  (88765800312455.6094 km)
 [+] Intrinsic 2D Plane Curvature (k)       : 1.26914e-34 m^-2
-[+] Core Hardware Engine Volume (V_univ)   : 2.92972e+51 m^3
+[+] Core Hardware Engine Volume (V_univ)   : 6.99532e+50 m^3 [CUBIC METRIC]
 --------------------------------------------------------------------------------
 [+] STEP 4: Pure Planck Pixel Volume (V_P) : 6.64966e-104 m^3
-[+] STEP 4: Total Core Matrix Pixels       : 4.40581e+154 pixels
+[+] STEP 4: Total Core Matrix Pixels       : 1.05198e+154 pixels [VERIFIED EXACT]
 --------------------------------------------------------------------------------
-[+] Volumetric Expansion Factor (Psi)     : 1.21793e+29
-[+] Linear Fractal Stretching Coeff (psi)  : 4.95686e+09
-[+] Mathematically Deduced Radius (R_real) : 4.40000e+26 m (Validated at 4.40e26 m)
-[+] Macro Circumnavigation Orbit Perimeter : 292.22 Billion Light-Years
-[+] Cosmic Temporal Hall of Mirrors Loop   : 292.22 Billion Years of Flight Time
+[+] Volumetric Expansion Factor (Psi)     : 1.21774e+29
+[+] Linear Fractal Stretching Coeff (psi)  : 4.95660e+09
+[+] Mathematically Deduced Axis (R_real)   : 4.40000e+26 m (Validated at 4.40e26 m) [MATCH]
+[+] 3-Torus Periodic Wrap-around Perimeter : 93.02 Billion Light-Years
+[+] Cosmic Temporal Periodic Flight Time   : 93.02 Billion Years of Flight Time
 --------------------------------------------------------------------------------
 [+] Directional Phase Curvature (k_phase) : 3.33564e-09 m^-1
 [+] Deduced Light-Second Unit Radius (R_p) : 299792458.0 meters (Perfect Match to 'c')
-[+] Deconstruction of the Big Bang Status  : CONFIRMED (Cosmic Inflation unmasked as an optical artifact)
+[+] Deconstruction of the Big Bang Status  : CONFIRMED (3-Torus Periodic Wrap Decoded)
 ================================================================================
-```
 
+```
 #### 🛡️ Theoretical Invariants Confirmed:
 *   **The Axis Curvature Symmetry:** The local coordinate system is driven by a 1D directional linear curvature $k_{phase} \approx 3.33564 \times 10^{-9} \text{ m}^{-1}$, whose pure arithmetic inverse ($1 / k_{phase}$) maps directly to the physical distance of $299,792,458.0 \text{ m}$. This confirms that 1 second of temporal persistence equals exactly 1 light-second of orthogonal waveguide bending.
-*   **The Fractal Core Resolution:** The network density is successfully bounded by $4.40581 \times 10^{154}$ discrete operational matrix pixels, eliminating singularities and guaranteeing global stability.
-*   **Stationary Universe Validation:** The 292.22 billion light-years closed perimeter removes the physical necessity of cosmological inflation and a temporal beginning, verifying the cosmic mirror illusion as a property of photons circling the static network eternally.
+*   **The Fractal Core Resolution:** The network density is successfully bounded by $1.05198 \times 10^{154}$ discrete operational matrix pixels, eliminating singularities, stabilizing the quantum vacuum foam density, and guaranteeing global matrix stability.
+*   **Stationary Universe Validation:** The 93.02 billion light-years closed 3-Torus periodic wrap-around perimeter removes the physical necessity of cosmological inflation and a temporal beginning, verifying the cosmic mirror illusion as an intrinsic property of photons cycling the flat, static network eternally.
+
