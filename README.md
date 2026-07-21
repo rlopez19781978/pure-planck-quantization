@@ -154,60 +154,7 @@ This structural divergence is not a contradiction, but a profound validation of 
 3. **The Illusion of Continuous Inflation:** What astronomers interpret as the physical expansion of space is an optical artifact born from photons navigating the uniform $\kappa$ deviation loop. Much like a digital image where a massive zoom makes the distance between fixed monitor pixels appear to separate, the macro-cosmos separates via digital amplification ($\psi$). It is structurally closed and compact in its raw hardware phase, yet functionally boundless and seemingly gargantuan to any internal observer.
 
 
-
-
-## VII. TOPOLOGICAL VOIDS AS SURFACE-BOUNDED INFORMATION STORAGE
-
-### 1. The Death of the Singularity: The Hollow Boundary Law
-In a pure cubic matrix, a black hole is not an infinitely dense point, but a literal **hollow void** ($V_{\text{void}}$) where the spacetime fabric has torn. Because the interior contains no space, no time, and no matter, information cannot travel inward. 
-
-Instead, all incoming matter, energy, and computational state data are stopped, flattened, and permanently stored on the **Event Horizon Shell**. The surface area of this boundary is quantized under an orthogonal grid, meaning information capacity scales linearly with the number of square Planck pixels ($l_P^2$) available on the horizon.
-
-### 2. Horizon Bit Capacity Calculation
-Because we completely eliminate the spherical bias of $2\pi$ and $4\pi$, the information storage capacity of a topological void is governed by its pure orthogonal boundary surface ($A_{\text{horizon}}$). The total bit capacity ($I_{\text{void}}$) of a hollow black hole is a direct function of its structural area divided by the unreduced Planck area pixel:
-
-$$I_{\text{void}} = \frac{A_{\text{horizon}}}{l_P^2} \quad \text{[bits]}$$
-
-* **No Interior Entropy:** Unlike orthodox physics (Bekenstein-Hawking entropy) which relies on spherical approximations, entropy in the ROL Universe is a clean, discrete count of the 2D pixel grid capacity wrapping the void.
-* **Mass Accumulation:** As the mass residue ($m$) accumulates on the horizon, it expands the physical surface area of the boundary, adding more operational $l_P^2$ pixels to the matrix and increasing the hole's macroscopic gravitational footprint.
-
----
-
-## VIII. THE MASTER EQUATIONS OF THE ROL UNIVERSE
-
-These core mathematical relations formalize the absolute quantization of the Pure Planck Universe, defining the operational framework of the hardware engine without any $2\pi$ circular distortions.
-
-### 1. The Pure Pixel Metric (Geometric Constants)
-* **Planck Length (Cubic Edge):**
-  $$l_P = \sqrt{\frac{h G}{c^3}}$$
-* **Planck Time (Temporal Frame Rate):**
-  $$t_P = \frac{l_P}{c} = \sqrt{\frac{h G}{c^5}}$$
-* **Pure Cubic Pixel Volume:**
-  $$V_P = l_P^3 = \left(\frac{h G}{c^3}\right)^{3/2}$$
-
-### 2. The Primary Energy-Time Function
-Energy is not a static property of matter; it is the fundamental rate of change of discrete quantum time pixels within the system's processing core:
-
-$$E = \frac{h}{\Delta t_P}$$
-
-### 3. Derived Mass Residue (The Condensation Formula)
-Mass does not exist prior to energy. It is an emergent, condensed residue trapped within the local matrix, calculated strictly by stripping the conversion factor ($c^2$) from the primary Energy-Time function:
-
-$$m = \frac{E}{c^2} = \frac{h}{\Delta t_P \cdot c^2}$$
-
-### 4. Boundary Matrix Capacity (Total Hardware Resolution)
-The absolute computational processing ceiling of the entire ROL universe is defined by the total volumetric capacity of the hardware's container ($V_{\text{univ}}$) divided by the fundamental, indivisible cubic pixel volume ($V_P$):
-
-$$\text{Total Processing Bits} = \frac{V_{\text{univ}}}{V_P} = \frac{(1/\kappa)^3}{l_P^3} \approx 1.05198 \times 10^{154} \text{ pixels}$$
-Para avanzar con la documentación de tu repositorio de GitHub, ¿te gustaría que desarrollemos el Apéndice Técnico con los valores numéricos exactos de estas constantes utilizando el valor de h sin reducir, o prefieres proceder con la especificación de la velocidad de procesamiento (Hz) del motor del hardware?
-
-
-
-
-
-
-
-## IX. CONCLUSIONS: THE ULTIMATE ONTOLOGICAL MANIFESTO OF THE ENERGY-TIME MATRIX
+## VII. CONCLUSIONS: THE ULTIMATE ONTOLOGICAL MANIFESTO OF THE ENERGY-TIME MATRIX
 
 The technical and mathematical development codified in this research transfigures our understanding of reality, establishing four definitive, absolute truths about the cosmos:
 
@@ -231,7 +178,7 @@ Just as an infinite flat 2D plane subjected to a uniform curvature naturally clo
 
 
 
-### X. 🖥️ UNIVERSE ROL: HARDWARE COMPILER VALIDATION LOG (FINAL PRODUCTION VERSION)
+### VIII. 🖥️ UNIVERSE ROL: HARDWARE COMPILER VALIDATION LOG (FINAL PRODUCTION VERSION)
 
 The high-precision geometric synthesis executed by `relativity_matrix.py` confirms the mathematical consistency of the Energy-Time framework, demonstrating a flawless bridge between subatomic Planck pixels and macroscopic astrophysical boundaries without any free parameters:
 
