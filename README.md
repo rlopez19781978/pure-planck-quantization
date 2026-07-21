@@ -196,15 +196,4 @@ The definitive validation of this framework’s internal consistency is achieved
 
 *   **Software and Structural Consistency:** The geometric symmetry is mathematically flawless. By multiplying the baseline operational radius by the cube root of the network expansion factor, the linear metric of the matrix stretches exactly to $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years). It is this exact scaling that forces light, as it navigates across this macro-expanded lattice, to require exactly **292.22 billion years** ($2.92219 \times 10^{11}$ years) to complete a single orbital circumnavigation around the expanded perimeter ($2\pi R_{obs}$), confirming the physical mechanics of the cosmic macro-expanded temporal hall of mirrors.
 
-### 6. 📐 The 1-Second Arc Mechanics: Geometrical Proof of Light-Speed Bending
-To fully unpack the physical meaning of the core baseline phase curvature ($k_{phase} = 1.11265 \times 10^{-17} \text{ m}^{-2}$), the model evaluates this parameter through the fundamental Gaussian curvature tensor equation, where $R_{phase} = 1 / \sqrt{k_{phase}}$. By feeding the precise computational output of the script into the geometric derivative, the architecture solves for the exact local physical radius of the fundamental frame:
-
-$$R_{phase} = \frac{1}{\sqrt{1.11265 \times 10^{-17} \text{ m}^{-2}}} = \mathbf{299,792,458 \text{ meters}}$$
-
-This flawless mathematical convergence yields an unparalleled cosmological insight: the baseline local phase radius of curvature ($R_{phase}$) is exactly equal to the invariant numerical distance a photon teleports across the matrix during **one single second of hardware time (1 light-second)**. 
-
-Within the Pythagorean phase space equation established by this framework—$(t \cdot c)^2 + v^2 = c^2$—this metric dictates that a duration of 1 second for an observer at absolute rest represents the navigation of a **perfect 90-degree circular arc (one geometric quadrant)** over the matrix. 
-
-**Dimensional Emergence & Absolute Velocity Realization:**  
-When an operational Energy-Time package accelerates along the velocity axis ($v$), it is structurally forced to follow the strict perimeter of this local light-second arc. Upon reaching the absolute processing ceiling ($v = c$), the package exhausts the entire radius on the spatial translation vector, executing a complete 90-degree angular rotation that mathematically drops its relative time flow ($t$) to absolute zero. The subtle $1.11265 \times 10^{-17} \text{ m}^{-2}$ local curvature represents the precise operational distortion required to translate raw energetic action into macroscopic temporal frame rates.
 
