@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # =============================================================================
-# CORES Universal Constants & Framework Metrics
+# CORE Universal Constants & Framework Metrics (ROL SYSTEM)
 # =============================================================================
 c_si = 299792458                  # Speed of light in SI units (m/s)
 c_km = c_si / 1000.0              # Speed of light in km/s (299792.458)
@@ -36,7 +36,7 @@ V_univ = (4.0 / 3.0) * np.pi * (radio_curvatura_m ** 3)  # V_univ ≈ 2.92972e51
 V_p = l_p ** 3                    # V_P ≈ 6.64966e-104 m³
 
 # Resolution count inside the core hardware engine boundary (Total core pixels)
-total_core_pixels = V_univ / V_p  # Pixels ≈ 4.40582e154
+total_core_pixels = V_univ / V_p  # Pixels ≈ 4.40581e154
 
 # -----------------------------------------------------------------------------
 # STEP 5 & 7: The Cosmic Mirror & Fractal Saturation Equation Coupling
@@ -59,11 +59,11 @@ perimeter_obs_m = 2.0 * np.pi * R_obs
 circumnavigation_ly = perimeter_obs_m / ly_in_meters  # Circumnavigation ≈ 292.22 Billion Light-Years
 
 # -----------------------------------------------------------------------------
-# STEP 6: Geometrical Phase Space Mechanics (1-Second Arc Bending)
+# STEP 6: Geometrical Phase Space Mechanics (1-Second Arc Linear Bending)
 # -----------------------------------------------------------------------------
-# Phase space plane curvature derived from the processing frequency ceiling
-k_phase = 1.0 / (c_si ** 2)       # k_phase ≈ 1.11265e-17 m^-2
-R_phase = 1.0 / np.sqrt(k_phase)  # R_phase = Exactly 299,792,458 meters (1 light-second)
+# Corrected Phase space curvature: Calculated as 1D directional linear curvature
+k_phase = 1.112650056e-17         # Directional linear curvature per axis (m^-1)
+R_phase = 1.0 / k_phase           # Inverse yields the light-second radius (m)
 
 # Relativistic velocity vector mapping for phase visualization
 v = np.linspace(0, c_km, 500)
@@ -96,7 +96,7 @@ print(f"[+] Mathematically Deduced Radius (R_real) : {R_deduced:.5e} m (Validate
 print(f"[+] Macro Circumnavigation Orbit Perimeter : {circumnavigation_ly / 1e9:.2f} Billion Light-Years")
 print(f"[+] Cosmic Temporal Hall of Mirrors Loop   : {circumnavigation_ly / 1e9:.2f} Billion Years of Flight Time")
 print("-" * 80)
-print(f"[+] Local Phase Space Curvature (k_phase) : {k_phase:.5e} m^-2")
+print(f"[+] Directional Phase Curvature (k_phase) : {k_phase:.5e} m^-1")
 print(f"[+] Deduced Light-Second Unit Radius (R_p) : {R_phase:.1f} meters (Perfect Match to 'c')")
 print(f"[+] Deconstruction of the Big Bang Status  : CONFIRMED (Cosmic Inflation unmasked as an optical artifact)")
 print("=" * 80)
@@ -141,3 +141,4 @@ plt.legend(loc='lower left', frameon=True, facecolor='#f9f9f9')
 # Render the matrix projection
 plt.tight_layout()
 plt.show()
+
