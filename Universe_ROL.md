@@ -72,16 +72,7 @@ $$\text{Total Spatial Pixels} = \frac{c \cdot 3600 \text{ s}}{l_P} = \frac{1.079
 The absolute symmetry between temporal frames and spatial pixels ($\approx 2.66393 \times 10^{46}$) mathematically proves that motion at the speed of light is a strict 1:1 pixel-to-frame translation. Light does not glide smoothly; for every chronon ($t_P$) that ticks, a photon teleports exactly one quantum pixel ($l_P$) forward in the matrix.
 
 
-### V. Comparative Analysis: Observable Cosmos vs. Ontological Phase Volume
-Mainstream astrophysics estimates the radius of the observable universe to be $4.40 \times 10^{26} \text{ m}$ ($\approx 46.5 \text{ Billion LY}$), yielding a virtual volume of $3.57 \times 10^{80} \text{ m}^3$. This macro-space theater is perfectly mapped within the core hardware engine's capacity via the volumetric projection:
-$$V_{real} = V_{univ} \cdot \Psi = (2.92972 \times 10^{51} \text{ m}^3) \cdot (1.21793 \times 10^{29}) \approx 3.56818 \times 10^{80} \text{ m}^3$$
-
----
-
-
----
-
-## VI. NON-SINGULAR BLACK HOLES AS HOLLOW TOPOLOGICAL VOIDS
+## V. NON-SINGULAR BLACK HOLES AS HOLLOW TOPOLOGICAL VOIDS
 
 ### 1. The Orthogonal Event Horizon vs. Spherical Bias
 By enforcing pure $h$ and an orthogonal cubic lattice, this model establishes that the event horizon of a quantum black hole is not a smooth sphere, but a stepped, cubically pixelated boundary. Each surface pixel holds exactly one unit of fundamental action ($h$), representing the absolute limit of information density unskewed by the $2\pi$ factor.
@@ -95,15 +86,4 @@ When the Critical Mass Density (\(\rho_P\)) is breached, the fabric of spacetime
 To an external observer, time near the black hole slows down. This is an optical artifact caused by a severe drop in the virtual world's framerate. The processor requires billions of internal core clock cycles to compute a single micro-step of spatial translation. At the exact boundary of the horizon, the local time rate drops to absolute zero relative to the external system; the frame rate freezes completely because the object has reached the final operational address of physical reality.
 
 ---
-
-## VII. CONCLUSIONS: THE DEFINITIVE LAWS OF THE ROL MATRIX
-
-The technical and mathematical development codified in this research establishes three absolute truths about the cosmos:
-
-1.  **The Universe IS Energy-Time:** Energy ($J$) and Time ($s$) are not separate variables interacting on a background. They are the exact same primordial substance.
-2.  **The Abolition of Infinities:** Infinite density singularities are mere artifacts of a continuous spherical background bias. In the ROL Universe, geometric collapse is halted by the orthogonal pixel matrix itself.
-3.  **The Flatness Illusion via Local Deviation:** Motion is a discrete digital translation. Local directional curvature ($\kappa = 1.12656 \times 10^{-17} \text{ m}^{-1}$) causes a subtle spatial lateral deviation of exactly **0.50625 meters per second** of light flight. This infinitesimal bending makes the matrix appear completely flat to human observers at small scales. Because a photon requires **292.22 Billion Years** to completely circumnavigate the fractal loop, the light from the core engine has not yet completed a single macro-orbit since the matrix initialized processing, preserving the grand optical illusion of an infinite, expanding cosmos.
-
----
-
 
