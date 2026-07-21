@@ -50,10 +50,10 @@ Tiempo para dar una vuelta:  1.0023033200e+18 años luz / años temporales
 | Métrica del Sistema | Fórmula Simbólica | Valor (Unidades SI) |
 | :--- | :--- | :--- |
 | **Radio del Horizonte Cósmico** | $R_{univ} = 1/h$ | $1.5091901796 \times 10^{33} \text{ m}$ |
-| **Volumen Total del Tejido** | $V_{univ} = \frac{4}{3}\pi R^3$ | $1.4398608422 \times 10^{100} \text{ m}^3$ |
+| **Volumen Total del universo* | $V_{univ} = \frac{4}{3}\pi R^3$ | $1.4398608422 \times 10^{100} \text{ m}^3$ |
 | **Espacio de la Unidad Fundamental** | $V_P = l_P^3$ | $6.6496604020 \times 10^{-104} \text{ m}^3$ |
-| **Resolución Total del Sistema** | $N_{bits} = V_{univ}/V_P$ | $2.1653148510 \times 10^{203} \text{ píxeles}$ |
-| **Límite Absoluto de Energía** | $E_{max} = N_{bits} \cdot E_P$ | $1.0616905818 \times 10^{213} \text{ J}$ |
+| **Resolución Total del universo** | $N_{bits} = V_{univ}/V_P$ | $2.1653148510 \times 10^{203} \text{ píxeles}$ |
+| **Límite Absoluto de Energía en universo** | $E_{max} = N_{bits} \cdot E_P$ | $1.0616905818 \times 10^{213} \text{ J}$ |
 
 ### 🚀 Perspectivas de la Velocidad Geométrica
 * **Perímetro Métrico:** La circunferencia real de envoltura del universo abarca **$9.4825215625 \times 10^{33}$ metros**.
