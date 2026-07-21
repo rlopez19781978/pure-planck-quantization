@@ -131,14 +131,16 @@ This macro-metric resolves the foundational 2-Dimensional Paradox. The universe 
 
 ---
 
-## VI.C. COMPARATIVE ANALYSIS: OBSERVABLE COSMOS VS. ONTOLOGICAL PHASE VOLUME
+### VI.C. COMPARATIVE ANALYSIS: OBSERVABLE COSMOS VS. ONTOLOGICAL PHASE VOLUME
 
-Mainstream observational astrophysics estimates the radius of the observable universe to be approximately $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years), yielding a macroscopic spatial volume of roughly $3.57 \times 10^{80} \text{ m}^3$. In contrast, the baseline ontological container derived in this framework spans a tighter, finite physical volume of $2.92972 \times 10^{51} \text{ m}^3$ based on the validated directional curvature radius ($R \approx 8.87658 \times 10^{16} \text{ m}$).
+Mainstream observational astrophysics estimates the radius of the observable universe to be approximately $4.40 \times 10^{26} \text{ meters}$ (46.5 billion light-years), yielding a macroscopic, virtual spatial volume of roughly $3.57 \times 10^{80} \text{ m}^3$. In contrast, the baseline ontological container derived in this framework spans a tighter, finite physical hardware volume of $2.92972 \times 10^{51} \text{ m}^3$ based on the validated directional curvature radius ($R \approx 8.87658 \times 10^{16} \text{ m}$).
 
-This structural divergence is not a contradiction, but a profound validation of the **Fractal Projective Hologram**:
-*   **The Hardware Engine Capacity:** The $2.92972 \times 10^{51} \text{ m}^3$ matrix volume represents the fundamental "processing hardware" or baseline container of reality.
-*   **Data Expansion:** While telescopes observe an expanded tridimensional theater of $10^{80} \text{ m}^3$, this entire physical space is easily mapped within the computing boundaries of the framework's total cosmic pixel capacity. Dividing the universe volume ($V_{\text{univ}}$) by the Pure Planck cubic pixel volume ($V_P \approx 6.64966 \times 10^{-104} \text{ m}^3$) reveals a structural resolution of exactly $4.40582 \times 10^{154}$ operational pixels.
-*   **The Illusion of Continuous Inflation:** What astronomers interpret as the cosmic expansion of a flat spacetime is an optical artifact born from photons navigating the uniform $\kappa = 1.12656 \times 10^{-17} \text{ m}^{-1}$ curvature loop. The macro-cosmos is structurally closed and finite in its raw energy-time phase, yet functionally boundless to any internal observer.
+This structural divergence is not a contradiction, but a profound validation of the Fractal Projective Hologram:
+
+1. **The Hardware Engine Capacity:** The $2.92972 \times 10^{51} \text{ m}^3$ matrix volume represents the fundamental "processing hardware" or baseline container of reality. Dividing this core universe volume ($V_{univ}$) by the Pure Planck cubic pixel volume ($V_P \approx 6.64966 \times 10^{-104} \text{ m}^3$) reveals a raw structural resolution of exactly **$4.40582 \times 10^{154}$ operational pixels (bits of information)**. This is the absolute processing capability of the ROL Matrix.
+2. **Data Expansion and Light Distance Accumulation:** The macroscopic radius of $4.40 \times 10^{26} \text{ meters}$ observed by modern telescopes is not an independent physical boundary, but the **accumulated path distance of photons** routing through the dense, hyper-wound fractal grid. The macro-space theater of $10^{80} \text{ m}^3$ is a virtual projection mapped entirely within the information capacity of the core processor.
+3. **The Illusion of Continuous Inflation:** What astronomers interpret as the cosmic expansion of a flat, infinite spacetime is an optical artifact born from photons continuously navigating the uniform $\kappa = 1.12656 \times 10^{-17} \text{ m}^{-1}$ curvature loop. The macro-cosmos is structurally closed and finite in its raw hardware phase, yet functionally boundless and seemingly gargantuan to any internal observer.
+
 
 ---
 
