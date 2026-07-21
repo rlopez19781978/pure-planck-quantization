@@ -59,3 +59,15 @@ Tiempo para dar una vuelta:  1.0023033200e+18 años luz / años temporales
 * **Metric Perimeter:** The actual wrap-around circumference of the universe spans **$9.4825215625 \times 10^{33}$ meters**.
 * **The Cosmic Loop:** Due to the intrinsic infinitesimal curvature of the $X$-$Y$ plane, a photon traveling at the constant speed of light ($c$) does not hit a wall. Instead, it completes a full $360^\circ$ circumnavigation every **$1.0023033200 \times 10^{18}$ years**.
 
+## 💡 Cosmic Curiosities & Matrix Trajectories
+
+The intrinsic mathematical structure of the **Universe ROL** model yields unique relativistic phenomena that challenge traditional macroscopic physics.
+
+### 🧭 The Paradox of the Cosmic Geodesic
+* **Maximum Loop Straightness:** Any object or photon moving in a **perfectly straight directional line** across the $X$-$Y$ grid will inevitably result in a full, self-contained circumnavigation of the universe. 
+* **The Length Zenith:** Due to the intrinsic infinitesimal curvature of the space-time fabric ($R = 1/h$), these straight geodesics represent the **absolute paths of maximum length** possible within the continuum ($9.48252 \times 10^{33} \text{ meters}$).
+
+### 🌀 Interior Trajectories and Sub-Loops
+* **Curved Displacement:** If an entity deviates from a straight line and follows a trajectory that is already physically curved on the grid, it will execute an **interior circumnavigation** (sub-loop).
+* **Radius-Dependent Perimeter:** These sub-loops compress the metric distance required to return to the original vector point. Their internal boundary and total loop length can be calculated analytically as a direct function of the local path's radius of curvature.
+
